@@ -1,0 +1,18 @@
+
+# Organisational unit for directores department
+dn: ou=directores,dc=rais,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: directores
+
+# Organisational unit for profesores department
+dn: ou=profesores,dc=rais,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: profesores
+
+# Organisational unit for alumnos department
+dn: ou=alumnos,dc=rais,dc=org
+changetype: add
+objectClass: organizationalUnit
+ou: alumnos

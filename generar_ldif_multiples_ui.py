@@ -20,28 +20,26 @@ ou: {ou_name}
 
 
 # Lista inicial de unidades organizativas
-lista_ou_name = [
+# Parámetros
+base_dn = "dc=rais,dc=org"    # Base DN tomado del docker-compose
+lista_ou_name_1 = [
     "directores", "profesores", "alumnos"
 ]
-
+#genera_contenido_ldif_multiples_unidades_organizativas("filename1.ldif", lista_ou_name, base_dn)
 # Lista extendida con más unidades organizativas
-lista_ou_name.extend([
+lista_ou_name_2 = [
     "personalnodocente", "eso1", "eso2", "eso3", "eso4",
     "bach1ciencias", "bach1humanidades", "bach2ciencias", "bach2humanidades",
     "profesoreseso", "profesoresbach", "profesoreseso1", "profesoreseso2",
     "profesoreseso3", "profesoreseso4", "profesoresbach1ciencias",
     "profesoresbach1humanidades", "profesoresbach2ciencias", "profesoresbach2humanidades"
-])
+]
+genera_contenido_ldif_multiples_unidades_organizativas("filename2.ldif", lista_ou_name_2, base_dn)
 
-# Parámetros
-filename = "ou_multiples.ldif"  # Nombre del archivo LDIF
-base_dn = "dc=rais,dc=org"    # Base DN tomado del docker-compose
 
-# Llamar a la función para generar el LDIF
-genera_contenido_ldif_multiples_unidades_organizativas(filename, lista_ou_name, base_dn)
 
 # Instrucciones para importar el LDIF en OpenLDAP
-def importar_ldif_en_openldap(ldif_file):
+'''def importar_ldif_en_openldap(ldif_file):
     import os
     
     command = f"docker cp {ldif_file} openldap:/tmp/{ldif_file} && " \
@@ -52,3 +50,6 @@ def importar_ldif_en_openldap(ldif_file):
 
 # Importar automáticamente el archivo generado en OpenLDAP
 importar_ldif_en_openldap(filename)
+
+'''
+
