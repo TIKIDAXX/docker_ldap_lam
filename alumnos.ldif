@@ -1,0 +1,6608 @@
+dn: cn=alumno2 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno2
+sn: alumno
+cn: alumno2 alumno
+uid: aalumno2
+userPassword: alumno
+uidNumber: 1002
+gidNumber: 500
+homeDirectory: /home/users/aalumno2
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno3 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno3
+sn: alumno
+cn: alumno3 alumno
+uid: aalumno3
+userPassword: alumno
+uidNumber: 1003
+gidNumber: 500
+homeDirectory: /home/users/aalumno3
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno4 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno4
+sn: alumno
+cn: alumno4 alumno
+uid: aalumno4
+userPassword: alumno
+uidNumber: 1004
+gidNumber: 500
+homeDirectory: /home/users/aalumno4
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno5 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno5
+sn: alumno
+cn: alumno5 alumno
+uid: aalumno5
+userPassword: alumno
+uidNumber: 1005
+gidNumber: 500
+homeDirectory: /home/users/aalumno5
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno6 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno6
+sn: alumno
+cn: alumno6 alumno
+uid: aalumno6
+userPassword: alumno
+uidNumber: 1006
+gidNumber: 500
+homeDirectory: /home/users/aalumno6
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno7 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno7
+sn: alumno
+cn: alumno7 alumno
+uid: aalumno7
+userPassword: alumno
+uidNumber: 1007
+gidNumber: 500
+homeDirectory: /home/users/aalumno7
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno8 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno8
+sn: alumno
+cn: alumno8 alumno
+uid: aalumno8
+userPassword: alumno
+uidNumber: 1008
+gidNumber: 500
+homeDirectory: /home/users/aalumno8
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno9 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno9
+sn: alumno
+cn: alumno9 alumno
+uid: aalumno9
+userPassword: alumno
+uidNumber: 1009
+gidNumber: 500
+homeDirectory: /home/users/aalumno9
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno10 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno10
+sn: alumno
+cn: alumno10 alumno
+uid: aalumno10
+userPassword: alumno
+uidNumber: 1010
+gidNumber: 500
+homeDirectory: /home/users/aalumno10
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno11 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno11
+sn: alumno
+cn: alumno11 alumno
+uid: aalumno11
+userPassword: alumno
+uidNumber: 1011
+gidNumber: 500
+homeDirectory: /home/users/aalumno11
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno12 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno12
+sn: alumno
+cn: alumno12 alumno
+uid: aalumno12
+userPassword: alumno
+uidNumber: 1012
+gidNumber: 500
+homeDirectory: /home/users/aalumno12
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno13 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno13
+sn: alumno
+cn: alumno13 alumno
+uid: aalumno13
+userPassword: alumno
+uidNumber: 1013
+gidNumber: 500
+homeDirectory: /home/users/aalumno13
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno14 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno14
+sn: alumno
+cn: alumno14 alumno
+uid: aalumno14
+userPassword: alumno
+uidNumber: 1014
+gidNumber: 500
+homeDirectory: /home/users/aalumno14
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno15 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno15
+sn: alumno
+cn: alumno15 alumno
+uid: aalumno15
+userPassword: alumno
+uidNumber: 1015
+gidNumber: 500
+homeDirectory: /home/users/aalumno15
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno16 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno16
+sn: alumno
+cn: alumno16 alumno
+uid: aalumno16
+userPassword: alumno
+uidNumber: 1016
+gidNumber: 500
+homeDirectory: /home/users/aalumno16
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno17 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno17
+sn: alumno
+cn: alumno17 alumno
+uid: aalumno17
+userPassword: alumno
+uidNumber: 1017
+gidNumber: 500
+homeDirectory: /home/users/aalumno17
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno18 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno18
+sn: alumno
+cn: alumno18 alumno
+uid: aalumno18
+userPassword: alumno
+uidNumber: 1018
+gidNumber: 500
+homeDirectory: /home/users/aalumno18
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno19 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno19
+sn: alumno
+cn: alumno19 alumno
+uid: aalumno19
+userPassword: alumno
+uidNumber: 1019
+gidNumber: 500
+homeDirectory: /home/users/aalumno19
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno20 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno20
+sn: alumno
+cn: alumno20 alumno
+uid: aalumno20
+userPassword: alumno
+uidNumber: 1020
+gidNumber: 500
+homeDirectory: /home/users/aalumno20
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno21 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno21
+sn: alumno
+cn: alumno21 alumno
+uid: aalumno21
+userPassword: alumno
+uidNumber: 1021
+gidNumber: 500
+homeDirectory: /home/users/aalumno21
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno22 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno22
+sn: alumno
+cn: alumno22 alumno
+uid: aalumno22
+userPassword: alumno
+uidNumber: 1022
+gidNumber: 500
+homeDirectory: /home/users/aalumno22
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno23 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno23
+sn: alumno
+cn: alumno23 alumno
+uid: aalumno23
+userPassword: alumno
+uidNumber: 1023
+gidNumber: 500
+homeDirectory: /home/users/aalumno23
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno24 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno24
+sn: alumno
+cn: alumno24 alumno
+uid: aalumno24
+userPassword: alumno
+uidNumber: 1024
+gidNumber: 500
+homeDirectory: /home/users/aalumno24
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno25 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno25
+sn: alumno
+cn: alumno25 alumno
+uid: aalumno25
+userPassword: alumno
+uidNumber: 1025
+gidNumber: 500
+homeDirectory: /home/users/aalumno25
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno26 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno26
+sn: alumno
+cn: alumno26 alumno
+uid: aalumno26
+userPassword: alumno
+uidNumber: 1026
+gidNumber: 500
+homeDirectory: /home/users/aalumno26
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno27 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno27
+sn: alumno
+cn: alumno27 alumno
+uid: aalumno27
+userPassword: alumno
+uidNumber: 1027
+gidNumber: 500
+homeDirectory: /home/users/aalumno27
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno28 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno28
+sn: alumno
+cn: alumno28 alumno
+uid: aalumno28
+userPassword: alumno
+uidNumber: 1028
+gidNumber: 500
+homeDirectory: /home/users/aalumno28
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno29 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno29
+sn: alumno
+cn: alumno29 alumno
+uid: aalumno29
+userPassword: alumno
+uidNumber: 1029
+gidNumber: 500
+homeDirectory: /home/users/aalumno29
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno30 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno30
+sn: alumno
+cn: alumno30 alumno
+uid: aalumno30
+userPassword: alumno
+uidNumber: 1030
+gidNumber: 500
+homeDirectory: /home/users/aalumno30
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno31 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno31
+sn: alumno
+cn: alumno31 alumno
+uid: aalumno31
+userPassword: alumno
+uidNumber: 1031
+gidNumber: 500
+homeDirectory: /home/users/aalumno31
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno32 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno32
+sn: alumno
+cn: alumno32 alumno
+uid: aalumno32
+userPassword: alumno
+uidNumber: 1032
+gidNumber: 500
+homeDirectory: /home/users/aalumno32
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno33 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno33
+sn: alumno
+cn: alumno33 alumno
+uid: aalumno33
+userPassword: alumno
+uidNumber: 1033
+gidNumber: 500
+homeDirectory: /home/users/aalumno33
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno34 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno34
+sn: alumno
+cn: alumno34 alumno
+uid: aalumno34
+userPassword: alumno
+uidNumber: 1034
+gidNumber: 500
+homeDirectory: /home/users/aalumno34
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno35 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno35
+sn: alumno
+cn: alumno35 alumno
+uid: aalumno35
+userPassword: alumno
+uidNumber: 1035
+gidNumber: 500
+homeDirectory: /home/users/aalumno35
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno36 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno36
+sn: alumno
+cn: alumno36 alumno
+uid: aalumno36
+userPassword: alumno
+uidNumber: 1036
+gidNumber: 500
+homeDirectory: /home/users/aalumno36
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno37 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno37
+sn: alumno
+cn: alumno37 alumno
+uid: aalumno37
+userPassword: alumno
+uidNumber: 1037
+gidNumber: 500
+homeDirectory: /home/users/aalumno37
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno38 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno38
+sn: alumno
+cn: alumno38 alumno
+uid: aalumno38
+userPassword: alumno
+uidNumber: 1038
+gidNumber: 500
+homeDirectory: /home/users/aalumno38
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno39 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno39
+sn: alumno
+cn: alumno39 alumno
+uid: aalumno39
+userPassword: alumno
+uidNumber: 1039
+gidNumber: 500
+homeDirectory: /home/users/aalumno39
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno40 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno40
+sn: alumno
+cn: alumno40 alumno
+uid: aalumno40
+userPassword: alumno
+uidNumber: 1040
+gidNumber: 500
+homeDirectory: /home/users/aalumno40
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno41 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno41
+sn: alumno
+cn: alumno41 alumno
+uid: aalumno41
+userPassword: alumno
+uidNumber: 1041
+gidNumber: 500
+homeDirectory: /home/users/aalumno41
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno42 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno42
+sn: alumno
+cn: alumno42 alumno
+uid: aalumno42
+userPassword: alumno
+uidNumber: 1042
+gidNumber: 500
+homeDirectory: /home/users/aalumno42
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno43 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno43
+sn: alumno
+cn: alumno43 alumno
+uid: aalumno43
+userPassword: alumno
+uidNumber: 1043
+gidNumber: 500
+homeDirectory: /home/users/aalumno43
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno44 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno44
+sn: alumno
+cn: alumno44 alumno
+uid: aalumno44
+userPassword: alumno
+uidNumber: 1044
+gidNumber: 500
+homeDirectory: /home/users/aalumno44
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno45 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno45
+sn: alumno
+cn: alumno45 alumno
+uid: aalumno45
+userPassword: alumno
+uidNumber: 1045
+gidNumber: 500
+homeDirectory: /home/users/aalumno45
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno46 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno46
+sn: alumno
+cn: alumno46 alumno
+uid: aalumno46
+userPassword: alumno
+uidNumber: 1046
+gidNumber: 500
+homeDirectory: /home/users/aalumno46
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno47 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno47
+sn: alumno
+cn: alumno47 alumno
+uid: aalumno47
+userPassword: alumno
+uidNumber: 1047
+gidNumber: 500
+homeDirectory: /home/users/aalumno47
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno48 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno48
+sn: alumno
+cn: alumno48 alumno
+uid: aalumno48
+userPassword: alumno
+uidNumber: 1048
+gidNumber: 500
+homeDirectory: /home/users/aalumno48
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno49 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno49
+sn: alumno
+cn: alumno49 alumno
+uid: aalumno49
+userPassword: alumno
+uidNumber: 1049
+gidNumber: 500
+homeDirectory: /home/users/aalumno49
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno50 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno50
+sn: alumno
+cn: alumno50 alumno
+uid: aalumno50
+userPassword: alumno
+uidNumber: 1050
+gidNumber: 500
+homeDirectory: /home/users/aalumno50
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno51 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno51
+sn: alumno
+cn: alumno51 alumno
+uid: aalumno51
+userPassword: alumno
+uidNumber: 1051
+gidNumber: 500
+homeDirectory: /home/users/aalumno51
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno52 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno52
+sn: alumno
+cn: alumno52 alumno
+uid: aalumno52
+userPassword: alumno
+uidNumber: 1052
+gidNumber: 500
+homeDirectory: /home/users/aalumno52
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno53 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno53
+sn: alumno
+cn: alumno53 alumno
+uid: aalumno53
+userPassword: alumno
+uidNumber: 1053
+gidNumber: 500
+homeDirectory: /home/users/aalumno53
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno54 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno54
+sn: alumno
+cn: alumno54 alumno
+uid: aalumno54
+userPassword: alumno
+uidNumber: 1054
+gidNumber: 500
+homeDirectory: /home/users/aalumno54
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno55 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno55
+sn: alumno
+cn: alumno55 alumno
+uid: aalumno55
+userPassword: alumno
+uidNumber: 1055
+gidNumber: 500
+homeDirectory: /home/users/aalumno55
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno56 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno56
+sn: alumno
+cn: alumno56 alumno
+uid: aalumno56
+userPassword: alumno
+uidNumber: 1056
+gidNumber: 500
+homeDirectory: /home/users/aalumno56
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno57 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno57
+sn: alumno
+cn: alumno57 alumno
+uid: aalumno57
+userPassword: alumno
+uidNumber: 1057
+gidNumber: 500
+homeDirectory: /home/users/aalumno57
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno58 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno58
+sn: alumno
+cn: alumno58 alumno
+uid: aalumno58
+userPassword: alumno
+uidNumber: 1058
+gidNumber: 500
+homeDirectory: /home/users/aalumno58
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno59 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno59
+sn: alumno
+cn: alumno59 alumno
+uid: aalumno59
+userPassword: alumno
+uidNumber: 1059
+gidNumber: 500
+homeDirectory: /home/users/aalumno59
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno60 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno60
+sn: alumno
+cn: alumno60 alumno
+uid: aalumno60
+userPassword: alumno
+uidNumber: 1060
+gidNumber: 500
+homeDirectory: /home/users/aalumno60
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno61 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno61
+sn: alumno
+cn: alumno61 alumno
+uid: aalumno61
+userPassword: alumno
+uidNumber: 1061
+gidNumber: 500
+homeDirectory: /home/users/aalumno61
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno62 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno62
+sn: alumno
+cn: alumno62 alumno
+uid: aalumno62
+userPassword: alumno
+uidNumber: 1062
+gidNumber: 500
+homeDirectory: /home/users/aalumno62
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno63 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno63
+sn: alumno
+cn: alumno63 alumno
+uid: aalumno63
+userPassword: alumno
+uidNumber: 1063
+gidNumber: 500
+homeDirectory: /home/users/aalumno63
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno64 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno64
+sn: alumno
+cn: alumno64 alumno
+uid: aalumno64
+userPassword: alumno
+uidNumber: 1064
+gidNumber: 500
+homeDirectory: /home/users/aalumno64
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno65 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno65
+sn: alumno
+cn: alumno65 alumno
+uid: aalumno65
+userPassword: alumno
+uidNumber: 1065
+gidNumber: 500
+homeDirectory: /home/users/aalumno65
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno66 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno66
+sn: alumno
+cn: alumno66 alumno
+uid: aalumno66
+userPassword: alumno
+uidNumber: 1066
+gidNumber: 500
+homeDirectory: /home/users/aalumno66
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno67 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno67
+sn: alumno
+cn: alumno67 alumno
+uid: aalumno67
+userPassword: alumno
+uidNumber: 1067
+gidNumber: 500
+homeDirectory: /home/users/aalumno67
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno68 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno68
+sn: alumno
+cn: alumno68 alumno
+uid: aalumno68
+userPassword: alumno
+uidNumber: 1068
+gidNumber: 500
+homeDirectory: /home/users/aalumno68
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno69 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno69
+sn: alumno
+cn: alumno69 alumno
+uid: aalumno69
+userPassword: alumno
+uidNumber: 1069
+gidNumber: 500
+homeDirectory: /home/users/aalumno69
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno70 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno70
+sn: alumno
+cn: alumno70 alumno
+uid: aalumno70
+userPassword: alumno
+uidNumber: 1070
+gidNumber: 500
+homeDirectory: /home/users/aalumno70
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno71 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno71
+sn: alumno
+cn: alumno71 alumno
+uid: aalumno71
+userPassword: alumno
+uidNumber: 1071
+gidNumber: 500
+homeDirectory: /home/users/aalumno71
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno72 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno72
+sn: alumno
+cn: alumno72 alumno
+uid: aalumno72
+userPassword: alumno
+uidNumber: 1072
+gidNumber: 500
+homeDirectory: /home/users/aalumno72
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno73 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno73
+sn: alumno
+cn: alumno73 alumno
+uid: aalumno73
+userPassword: alumno
+uidNumber: 1073
+gidNumber: 500
+homeDirectory: /home/users/aalumno73
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno74 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno74
+sn: alumno
+cn: alumno74 alumno
+uid: aalumno74
+userPassword: alumno
+uidNumber: 1074
+gidNumber: 500
+homeDirectory: /home/users/aalumno74
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno75 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno75
+sn: alumno
+cn: alumno75 alumno
+uid: aalumno75
+userPassword: alumno
+uidNumber: 1075
+gidNumber: 500
+homeDirectory: /home/users/aalumno75
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno76 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno76
+sn: alumno
+cn: alumno76 alumno
+uid: aalumno76
+userPassword: alumno
+uidNumber: 1076
+gidNumber: 500
+homeDirectory: /home/users/aalumno76
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno77 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno77
+sn: alumno
+cn: alumno77 alumno
+uid: aalumno77
+userPassword: alumno
+uidNumber: 1077
+gidNumber: 500
+homeDirectory: /home/users/aalumno77
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno78 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno78
+sn: alumno
+cn: alumno78 alumno
+uid: aalumno78
+userPassword: alumno
+uidNumber: 1078
+gidNumber: 500
+homeDirectory: /home/users/aalumno78
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno79 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno79
+sn: alumno
+cn: alumno79 alumno
+uid: aalumno79
+userPassword: alumno
+uidNumber: 1079
+gidNumber: 500
+homeDirectory: /home/users/aalumno79
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno80 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno80
+sn: alumno
+cn: alumno80 alumno
+uid: aalumno80
+userPassword: alumno
+uidNumber: 1080
+gidNumber: 500
+homeDirectory: /home/users/aalumno80
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno81 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno81
+sn: alumno
+cn: alumno81 alumno
+uid: aalumno81
+userPassword: alumno
+uidNumber: 1081
+gidNumber: 500
+homeDirectory: /home/users/aalumno81
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno82 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno82
+sn: alumno
+cn: alumno82 alumno
+uid: aalumno82
+userPassword: alumno
+uidNumber: 1082
+gidNumber: 500
+homeDirectory: /home/users/aalumno82
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno83 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno83
+sn: alumno
+cn: alumno83 alumno
+uid: aalumno83
+userPassword: alumno
+uidNumber: 1083
+gidNumber: 500
+homeDirectory: /home/users/aalumno83
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno84 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno84
+sn: alumno
+cn: alumno84 alumno
+uid: aalumno84
+userPassword: alumno
+uidNumber: 1084
+gidNumber: 500
+homeDirectory: /home/users/aalumno84
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno85 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno85
+sn: alumno
+cn: alumno85 alumno
+uid: aalumno85
+userPassword: alumno
+uidNumber: 1085
+gidNumber: 500
+homeDirectory: /home/users/aalumno85
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno86 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno86
+sn: alumno
+cn: alumno86 alumno
+uid: aalumno86
+userPassword: alumno
+uidNumber: 1086
+gidNumber: 500
+homeDirectory: /home/users/aalumno86
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno87 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno87
+sn: alumno
+cn: alumno87 alumno
+uid: aalumno87
+userPassword: alumno
+uidNumber: 1087
+gidNumber: 500
+homeDirectory: /home/users/aalumno87
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno88 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno88
+sn: alumno
+cn: alumno88 alumno
+uid: aalumno88
+userPassword: alumno
+uidNumber: 1088
+gidNumber: 500
+homeDirectory: /home/users/aalumno88
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno89 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno89
+sn: alumno
+cn: alumno89 alumno
+uid: aalumno89
+userPassword: alumno
+uidNumber: 1089
+gidNumber: 500
+homeDirectory: /home/users/aalumno89
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno90 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno90
+sn: alumno
+cn: alumno90 alumno
+uid: aalumno90
+userPassword: alumno
+uidNumber: 1090
+gidNumber: 500
+homeDirectory: /home/users/aalumno90
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno91 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno91
+sn: alumno
+cn: alumno91 alumno
+uid: aalumno91
+userPassword: alumno
+uidNumber: 1091
+gidNumber: 500
+homeDirectory: /home/users/aalumno91
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno92 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno92
+sn: alumno
+cn: alumno92 alumno
+uid: aalumno92
+userPassword: alumno
+uidNumber: 1092
+gidNumber: 500
+homeDirectory: /home/users/aalumno92
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno93 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno93
+sn: alumno
+cn: alumno93 alumno
+uid: aalumno93
+userPassword: alumno
+uidNumber: 1093
+gidNumber: 500
+homeDirectory: /home/users/aalumno93
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno94 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno94
+sn: alumno
+cn: alumno94 alumno
+uid: aalumno94
+userPassword: alumno
+uidNumber: 1094
+gidNumber: 500
+homeDirectory: /home/users/aalumno94
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno95 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno95
+sn: alumno
+cn: alumno95 alumno
+uid: aalumno95
+userPassword: alumno
+uidNumber: 1095
+gidNumber: 500
+homeDirectory: /home/users/aalumno95
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno96 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno96
+sn: alumno
+cn: alumno96 alumno
+uid: aalumno96
+userPassword: alumno
+uidNumber: 1096
+gidNumber: 500
+homeDirectory: /home/users/aalumno96
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno97 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno97
+sn: alumno
+cn: alumno97 alumno
+uid: aalumno97
+userPassword: alumno
+uidNumber: 1097
+gidNumber: 500
+homeDirectory: /home/users/aalumno97
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno98 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno98
+sn: alumno
+cn: alumno98 alumno
+uid: aalumno98
+userPassword: alumno
+uidNumber: 1098
+gidNumber: 500
+homeDirectory: /home/users/aalumno98
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno99 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno99
+sn: alumno
+cn: alumno99 alumno
+uid: aalumno99
+userPassword: alumno
+uidNumber: 1099
+gidNumber: 500
+homeDirectory: /home/users/aalumno99
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno100 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno100
+sn: alumno
+cn: alumno100 alumno
+uid: aalumno100
+userPassword: alumno
+uidNumber: 1100
+gidNumber: 500
+homeDirectory: /home/users/aalumno100
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno101 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno101
+sn: alumno
+cn: alumno101 alumno
+uid: aalumno101
+userPassword: alumno
+uidNumber: 1101
+gidNumber: 500
+homeDirectory: /home/users/aalumno101
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno102 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno102
+sn: alumno
+cn: alumno102 alumno
+uid: aalumno102
+userPassword: alumno
+uidNumber: 1102
+gidNumber: 500
+homeDirectory: /home/users/aalumno102
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno103 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno103
+sn: alumno
+cn: alumno103 alumno
+uid: aalumno103
+userPassword: alumno
+uidNumber: 1103
+gidNumber: 500
+homeDirectory: /home/users/aalumno103
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno104 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno104
+sn: alumno
+cn: alumno104 alumno
+uid: aalumno104
+userPassword: alumno
+uidNumber: 1104
+gidNumber: 500
+homeDirectory: /home/users/aalumno104
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno105 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno105
+sn: alumno
+cn: alumno105 alumno
+uid: aalumno105
+userPassword: alumno
+uidNumber: 1105
+gidNumber: 500
+homeDirectory: /home/users/aalumno105
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno106 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno106
+sn: alumno
+cn: alumno106 alumno
+uid: aalumno106
+userPassword: alumno
+uidNumber: 1106
+gidNumber: 500
+homeDirectory: /home/users/aalumno106
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno107 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno107
+sn: alumno
+cn: alumno107 alumno
+uid: aalumno107
+userPassword: alumno
+uidNumber: 1107
+gidNumber: 500
+homeDirectory: /home/users/aalumno107
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno108 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno108
+sn: alumno
+cn: alumno108 alumno
+uid: aalumno108
+userPassword: alumno
+uidNumber: 1108
+gidNumber: 500
+homeDirectory: /home/users/aalumno108
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno109 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno109
+sn: alumno
+cn: alumno109 alumno
+uid: aalumno109
+userPassword: alumno
+uidNumber: 1109
+gidNumber: 500
+homeDirectory: /home/users/aalumno109
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno110 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno110
+sn: alumno
+cn: alumno110 alumno
+uid: aalumno110
+userPassword: alumno
+uidNumber: 1110
+gidNumber: 500
+homeDirectory: /home/users/aalumno110
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno111 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno111
+sn: alumno
+cn: alumno111 alumno
+uid: aalumno111
+userPassword: alumno
+uidNumber: 1111
+gidNumber: 500
+homeDirectory: /home/users/aalumno111
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno112 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno112
+sn: alumno
+cn: alumno112 alumno
+uid: aalumno112
+userPassword: alumno
+uidNumber: 1112
+gidNumber: 500
+homeDirectory: /home/users/aalumno112
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno113 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno113
+sn: alumno
+cn: alumno113 alumno
+uid: aalumno113
+userPassword: alumno
+uidNumber: 1113
+gidNumber: 500
+homeDirectory: /home/users/aalumno113
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno114 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno114
+sn: alumno
+cn: alumno114 alumno
+uid: aalumno114
+userPassword: alumno
+uidNumber: 1114
+gidNumber: 500
+homeDirectory: /home/users/aalumno114
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno115 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno115
+sn: alumno
+cn: alumno115 alumno
+uid: aalumno115
+userPassword: alumno
+uidNumber: 1115
+gidNumber: 500
+homeDirectory: /home/users/aalumno115
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno116 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno116
+sn: alumno
+cn: alumno116 alumno
+uid: aalumno116
+userPassword: alumno
+uidNumber: 1116
+gidNumber: 500
+homeDirectory: /home/users/aalumno116
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno117 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno117
+sn: alumno
+cn: alumno117 alumno
+uid: aalumno117
+userPassword: alumno
+uidNumber: 1117
+gidNumber: 500
+homeDirectory: /home/users/aalumno117
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno118 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno118
+sn: alumno
+cn: alumno118 alumno
+uid: aalumno118
+userPassword: alumno
+uidNumber: 1118
+gidNumber: 500
+homeDirectory: /home/users/aalumno118
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno119 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno119
+sn: alumno
+cn: alumno119 alumno
+uid: aalumno119
+userPassword: alumno
+uidNumber: 1119
+gidNumber: 500
+homeDirectory: /home/users/aalumno119
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno120 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno120
+sn: alumno
+cn: alumno120 alumno
+uid: aalumno120
+userPassword: alumno
+uidNumber: 1120
+gidNumber: 500
+homeDirectory: /home/users/aalumno120
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno121 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno121
+sn: alumno
+cn: alumno121 alumno
+uid: aalumno121
+userPassword: alumno
+uidNumber: 1121
+gidNumber: 500
+homeDirectory: /home/users/aalumno121
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno122 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno122
+sn: alumno
+cn: alumno122 alumno
+uid: aalumno122
+userPassword: alumno
+uidNumber: 1122
+gidNumber: 500
+homeDirectory: /home/users/aalumno122
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno123 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno123
+sn: alumno
+cn: alumno123 alumno
+uid: aalumno123
+userPassword: alumno
+uidNumber: 1123
+gidNumber: 500
+homeDirectory: /home/users/aalumno123
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno124 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno124
+sn: alumno
+cn: alumno124 alumno
+uid: aalumno124
+userPassword: alumno
+uidNumber: 1124
+gidNumber: 500
+homeDirectory: /home/users/aalumno124
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno125 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno125
+sn: alumno
+cn: alumno125 alumno
+uid: aalumno125
+userPassword: alumno
+uidNumber: 1125
+gidNumber: 500
+homeDirectory: /home/users/aalumno125
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno126 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno126
+sn: alumno
+cn: alumno126 alumno
+uid: aalumno126
+userPassword: alumno
+uidNumber: 1126
+gidNumber: 500
+homeDirectory: /home/users/aalumno126
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno127 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno127
+sn: alumno
+cn: alumno127 alumno
+uid: aalumno127
+userPassword: alumno
+uidNumber: 1127
+gidNumber: 500
+homeDirectory: /home/users/aalumno127
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno128 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno128
+sn: alumno
+cn: alumno128 alumno
+uid: aalumno128
+userPassword: alumno
+uidNumber: 1128
+gidNumber: 500
+homeDirectory: /home/users/aalumno128
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno129 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno129
+sn: alumno
+cn: alumno129 alumno
+uid: aalumno129
+userPassword: alumno
+uidNumber: 1129
+gidNumber: 500
+homeDirectory: /home/users/aalumno129
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno130 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno130
+sn: alumno
+cn: alumno130 alumno
+uid: aalumno130
+userPassword: alumno
+uidNumber: 1130
+gidNumber: 500
+homeDirectory: /home/users/aalumno130
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno131 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno131
+sn: alumno
+cn: alumno131 alumno
+uid: aalumno131
+userPassword: alumno
+uidNumber: 1131
+gidNumber: 500
+homeDirectory: /home/users/aalumno131
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno132 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno132
+sn: alumno
+cn: alumno132 alumno
+uid: aalumno132
+userPassword: alumno
+uidNumber: 1132
+gidNumber: 500
+homeDirectory: /home/users/aalumno132
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno133 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno133
+sn: alumno
+cn: alumno133 alumno
+uid: aalumno133
+userPassword: alumno
+uidNumber: 1133
+gidNumber: 500
+homeDirectory: /home/users/aalumno133
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno134 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno134
+sn: alumno
+cn: alumno134 alumno
+uid: aalumno134
+userPassword: alumno
+uidNumber: 1134
+gidNumber: 500
+homeDirectory: /home/users/aalumno134
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno135 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno135
+sn: alumno
+cn: alumno135 alumno
+uid: aalumno135
+userPassword: alumno
+uidNumber: 1135
+gidNumber: 500
+homeDirectory: /home/users/aalumno135
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno136 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno136
+sn: alumno
+cn: alumno136 alumno
+uid: aalumno136
+userPassword: alumno
+uidNumber: 1136
+gidNumber: 500
+homeDirectory: /home/users/aalumno136
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno137 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno137
+sn: alumno
+cn: alumno137 alumno
+uid: aalumno137
+userPassword: alumno
+uidNumber: 1137
+gidNumber: 500
+homeDirectory: /home/users/aalumno137
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno138 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno138
+sn: alumno
+cn: alumno138 alumno
+uid: aalumno138
+userPassword: alumno
+uidNumber: 1138
+gidNumber: 500
+homeDirectory: /home/users/aalumno138
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno139 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno139
+sn: alumno
+cn: alumno139 alumno
+uid: aalumno139
+userPassword: alumno
+uidNumber: 1139
+gidNumber: 500
+homeDirectory: /home/users/aalumno139
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno140 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno140
+sn: alumno
+cn: alumno140 alumno
+uid: aalumno140
+userPassword: alumno
+uidNumber: 1140
+gidNumber: 500
+homeDirectory: /home/users/aalumno140
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno141 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno141
+sn: alumno
+cn: alumno141 alumno
+uid: aalumno141
+userPassword: alumno
+uidNumber: 1141
+gidNumber: 500
+homeDirectory: /home/users/aalumno141
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno142 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno142
+sn: alumno
+cn: alumno142 alumno
+uid: aalumno142
+userPassword: alumno
+uidNumber: 1142
+gidNumber: 500
+homeDirectory: /home/users/aalumno142
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno143 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno143
+sn: alumno
+cn: alumno143 alumno
+uid: aalumno143
+userPassword: alumno
+uidNumber: 1143
+gidNumber: 500
+homeDirectory: /home/users/aalumno143
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno144 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno144
+sn: alumno
+cn: alumno144 alumno
+uid: aalumno144
+userPassword: alumno
+uidNumber: 1144
+gidNumber: 500
+homeDirectory: /home/users/aalumno144
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno145 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno145
+sn: alumno
+cn: alumno145 alumno
+uid: aalumno145
+userPassword: alumno
+uidNumber: 1145
+gidNumber: 500
+homeDirectory: /home/users/aalumno145
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno146 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno146
+sn: alumno
+cn: alumno146 alumno
+uid: aalumno146
+userPassword: alumno
+uidNumber: 1146
+gidNumber: 500
+homeDirectory: /home/users/aalumno146
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno147 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno147
+sn: alumno
+cn: alumno147 alumno
+uid: aalumno147
+userPassword: alumno
+uidNumber: 1147
+gidNumber: 500
+homeDirectory: /home/users/aalumno147
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno148 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno148
+sn: alumno
+cn: alumno148 alumno
+uid: aalumno148
+userPassword: alumno
+uidNumber: 1148
+gidNumber: 500
+homeDirectory: /home/users/aalumno148
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno149 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno149
+sn: alumno
+cn: alumno149 alumno
+uid: aalumno149
+userPassword: alumno
+uidNumber: 1149
+gidNumber: 500
+homeDirectory: /home/users/aalumno149
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno150 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno150
+sn: alumno
+cn: alumno150 alumno
+uid: aalumno150
+userPassword: alumno
+uidNumber: 1150
+gidNumber: 500
+homeDirectory: /home/users/aalumno150
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno151 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno151
+sn: alumno
+cn: alumno151 alumno
+uid: aalumno151
+userPassword: alumno
+uidNumber: 1151
+gidNumber: 500
+homeDirectory: /home/users/aalumno151
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno152 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno152
+sn: alumno
+cn: alumno152 alumno
+uid: aalumno152
+userPassword: alumno
+uidNumber: 1152
+gidNumber: 500
+homeDirectory: /home/users/aalumno152
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno153 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno153
+sn: alumno
+cn: alumno153 alumno
+uid: aalumno153
+userPassword: alumno
+uidNumber: 1153
+gidNumber: 500
+homeDirectory: /home/users/aalumno153
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno154 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno154
+sn: alumno
+cn: alumno154 alumno
+uid: aalumno154
+userPassword: alumno
+uidNumber: 1154
+gidNumber: 500
+homeDirectory: /home/users/aalumno154
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno155 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno155
+sn: alumno
+cn: alumno155 alumno
+uid: aalumno155
+userPassword: alumno
+uidNumber: 1155
+gidNumber: 500
+homeDirectory: /home/users/aalumno155
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno156 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno156
+sn: alumno
+cn: alumno156 alumno
+uid: aalumno156
+userPassword: alumno
+uidNumber: 1156
+gidNumber: 500
+homeDirectory: /home/users/aalumno156
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno157 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno157
+sn: alumno
+cn: alumno157 alumno
+uid: aalumno157
+userPassword: alumno
+uidNumber: 1157
+gidNumber: 500
+homeDirectory: /home/users/aalumno157
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno158 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno158
+sn: alumno
+cn: alumno158 alumno
+uid: aalumno158
+userPassword: alumno
+uidNumber: 1158
+gidNumber: 500
+homeDirectory: /home/users/aalumno158
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno159 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno159
+sn: alumno
+cn: alumno159 alumno
+uid: aalumno159
+userPassword: alumno
+uidNumber: 1159
+gidNumber: 500
+homeDirectory: /home/users/aalumno159
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno160 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno160
+sn: alumno
+cn: alumno160 alumno
+uid: aalumno160
+userPassword: alumno
+uidNumber: 1160
+gidNumber: 500
+homeDirectory: /home/users/aalumno160
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno161 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno161
+sn: alumno
+cn: alumno161 alumno
+uid: aalumno161
+userPassword: alumno
+uidNumber: 1161
+gidNumber: 500
+homeDirectory: /home/users/aalumno161
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno162 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno162
+sn: alumno
+cn: alumno162 alumno
+uid: aalumno162
+userPassword: alumno
+uidNumber: 1162
+gidNumber: 500
+homeDirectory: /home/users/aalumno162
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno163 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno163
+sn: alumno
+cn: alumno163 alumno
+uid: aalumno163
+userPassword: alumno
+uidNumber: 1163
+gidNumber: 500
+homeDirectory: /home/users/aalumno163
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno164 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno164
+sn: alumno
+cn: alumno164 alumno
+uid: aalumno164
+userPassword: alumno
+uidNumber: 1164
+gidNumber: 500
+homeDirectory: /home/users/aalumno164
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno165 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno165
+sn: alumno
+cn: alumno165 alumno
+uid: aalumno165
+userPassword: alumno
+uidNumber: 1165
+gidNumber: 500
+homeDirectory: /home/users/aalumno165
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno166 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno166
+sn: alumno
+cn: alumno166 alumno
+uid: aalumno166
+userPassword: alumno
+uidNumber: 1166
+gidNumber: 500
+homeDirectory: /home/users/aalumno166
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno167 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno167
+sn: alumno
+cn: alumno167 alumno
+uid: aalumno167
+userPassword: alumno
+uidNumber: 1167
+gidNumber: 500
+homeDirectory: /home/users/aalumno167
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno168 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno168
+sn: alumno
+cn: alumno168 alumno
+uid: aalumno168
+userPassword: alumno
+uidNumber: 1168
+gidNumber: 500
+homeDirectory: /home/users/aalumno168
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno169 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno169
+sn: alumno
+cn: alumno169 alumno
+uid: aalumno169
+userPassword: alumno
+uidNumber: 1169
+gidNumber: 500
+homeDirectory: /home/users/aalumno169
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno170 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno170
+sn: alumno
+cn: alumno170 alumno
+uid: aalumno170
+userPassword: alumno
+uidNumber: 1170
+gidNumber: 500
+homeDirectory: /home/users/aalumno170
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno171 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno171
+sn: alumno
+cn: alumno171 alumno
+uid: aalumno171
+userPassword: alumno
+uidNumber: 1171
+gidNumber: 500
+homeDirectory: /home/users/aalumno171
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno172 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno172
+sn: alumno
+cn: alumno172 alumno
+uid: aalumno172
+userPassword: alumno
+uidNumber: 1172
+gidNumber: 500
+homeDirectory: /home/users/aalumno172
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno173 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno173
+sn: alumno
+cn: alumno173 alumno
+uid: aalumno173
+userPassword: alumno
+uidNumber: 1173
+gidNumber: 500
+homeDirectory: /home/users/aalumno173
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno174 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno174
+sn: alumno
+cn: alumno174 alumno
+uid: aalumno174
+userPassword: alumno
+uidNumber: 1174
+gidNumber: 500
+homeDirectory: /home/users/aalumno174
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno175 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno175
+sn: alumno
+cn: alumno175 alumno
+uid: aalumno175
+userPassword: alumno
+uidNumber: 1175
+gidNumber: 500
+homeDirectory: /home/users/aalumno175
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno176 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno176
+sn: alumno
+cn: alumno176 alumno
+uid: aalumno176
+userPassword: alumno
+uidNumber: 1176
+gidNumber: 500
+homeDirectory: /home/users/aalumno176
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno177 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno177
+sn: alumno
+cn: alumno177 alumno
+uid: aalumno177
+userPassword: alumno
+uidNumber: 1177
+gidNumber: 500
+homeDirectory: /home/users/aalumno177
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno178 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno178
+sn: alumno
+cn: alumno178 alumno
+uid: aalumno178
+userPassword: alumno
+uidNumber: 1178
+gidNumber: 500
+homeDirectory: /home/users/aalumno178
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno179 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno179
+sn: alumno
+cn: alumno179 alumno
+uid: aalumno179
+userPassword: alumno
+uidNumber: 1179
+gidNumber: 500
+homeDirectory: /home/users/aalumno179
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno180 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno180
+sn: alumno
+cn: alumno180 alumno
+uid: aalumno180
+userPassword: alumno
+uidNumber: 1180
+gidNumber: 500
+homeDirectory: /home/users/aalumno180
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno181 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno181
+sn: alumno
+cn: alumno181 alumno
+uid: aalumno181
+userPassword: alumno
+uidNumber: 1181
+gidNumber: 500
+homeDirectory: /home/users/aalumno181
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno182 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno182
+sn: alumno
+cn: alumno182 alumno
+uid: aalumno182
+userPassword: alumno
+uidNumber: 1182
+gidNumber: 500
+homeDirectory: /home/users/aalumno182
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno183 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno183
+sn: alumno
+cn: alumno183 alumno
+uid: aalumno183
+userPassword: alumno
+uidNumber: 1183
+gidNumber: 500
+homeDirectory: /home/users/aalumno183
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno184 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno184
+sn: alumno
+cn: alumno184 alumno
+uid: aalumno184
+userPassword: alumno
+uidNumber: 1184
+gidNumber: 500
+homeDirectory: /home/users/aalumno184
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno185 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno185
+sn: alumno
+cn: alumno185 alumno
+uid: aalumno185
+userPassword: alumno
+uidNumber: 1185
+gidNumber: 500
+homeDirectory: /home/users/aalumno185
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno186 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno186
+sn: alumno
+cn: alumno186 alumno
+uid: aalumno186
+userPassword: alumno
+uidNumber: 1186
+gidNumber: 500
+homeDirectory: /home/users/aalumno186
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno187 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno187
+sn: alumno
+cn: alumno187 alumno
+uid: aalumno187
+userPassword: alumno
+uidNumber: 1187
+gidNumber: 500
+homeDirectory: /home/users/aalumno187
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno188 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno188
+sn: alumno
+cn: alumno188 alumno
+uid: aalumno188
+userPassword: alumno
+uidNumber: 1188
+gidNumber: 500
+homeDirectory: /home/users/aalumno188
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno189 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno189
+sn: alumno
+cn: alumno189 alumno
+uid: aalumno189
+userPassword: alumno
+uidNumber: 1189
+gidNumber: 500
+homeDirectory: /home/users/aalumno189
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno190 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno190
+sn: alumno
+cn: alumno190 alumno
+uid: aalumno190
+userPassword: alumno
+uidNumber: 1190
+gidNumber: 500
+homeDirectory: /home/users/aalumno190
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno191 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno191
+sn: alumno
+cn: alumno191 alumno
+uid: aalumno191
+userPassword: alumno
+uidNumber: 1191
+gidNumber: 500
+homeDirectory: /home/users/aalumno191
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno192 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno192
+sn: alumno
+cn: alumno192 alumno
+uid: aalumno192
+userPassword: alumno
+uidNumber: 1192
+gidNumber: 500
+homeDirectory: /home/users/aalumno192
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno193 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno193
+sn: alumno
+cn: alumno193 alumno
+uid: aalumno193
+userPassword: alumno
+uidNumber: 1193
+gidNumber: 500
+homeDirectory: /home/users/aalumno193
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno194 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno194
+sn: alumno
+cn: alumno194 alumno
+uid: aalumno194
+userPassword: alumno
+uidNumber: 1194
+gidNumber: 500
+homeDirectory: /home/users/aalumno194
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno195 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno195
+sn: alumno
+cn: alumno195 alumno
+uid: aalumno195
+userPassword: alumno
+uidNumber: 1195
+gidNumber: 500
+homeDirectory: /home/users/aalumno195
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno196 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno196
+sn: alumno
+cn: alumno196 alumno
+uid: aalumno196
+userPassword: alumno
+uidNumber: 1196
+gidNumber: 500
+homeDirectory: /home/users/aalumno196
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno197 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno197
+sn: alumno
+cn: alumno197 alumno
+uid: aalumno197
+userPassword: alumno
+uidNumber: 1197
+gidNumber: 500
+homeDirectory: /home/users/aalumno197
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno198 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno198
+sn: alumno
+cn: alumno198 alumno
+uid: aalumno198
+userPassword: alumno
+uidNumber: 1198
+gidNumber: 500
+homeDirectory: /home/users/aalumno198
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno199 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno199
+sn: alumno
+cn: alumno199 alumno
+uid: aalumno199
+userPassword: alumno
+uidNumber: 1199
+gidNumber: 500
+homeDirectory: /home/users/aalumno199
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno200 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno200
+sn: alumno
+cn: alumno200 alumno
+uid: aalumno200
+userPassword: alumno
+uidNumber: 1200
+gidNumber: 500
+homeDirectory: /home/users/aalumno200
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno201 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno201
+sn: alumno
+cn: alumno201 alumno
+uid: aalumno201
+userPassword: alumno
+uidNumber: 1201
+gidNumber: 500
+homeDirectory: /home/users/aalumno201
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno202 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno202
+sn: alumno
+cn: alumno202 alumno
+uid: aalumno202
+userPassword: alumno
+uidNumber: 1202
+gidNumber: 500
+homeDirectory: /home/users/aalumno202
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno203 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno203
+sn: alumno
+cn: alumno203 alumno
+uid: aalumno203
+userPassword: alumno
+uidNumber: 1203
+gidNumber: 500
+homeDirectory: /home/users/aalumno203
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno204 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno204
+sn: alumno
+cn: alumno204 alumno
+uid: aalumno204
+userPassword: alumno
+uidNumber: 1204
+gidNumber: 500
+homeDirectory: /home/users/aalumno204
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno205 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno205
+sn: alumno
+cn: alumno205 alumno
+uid: aalumno205
+userPassword: alumno
+uidNumber: 1205
+gidNumber: 500
+homeDirectory: /home/users/aalumno205
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno206 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno206
+sn: alumno
+cn: alumno206 alumno
+uid: aalumno206
+userPassword: alumno
+uidNumber: 1206
+gidNumber: 500
+homeDirectory: /home/users/aalumno206
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno207 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno207
+sn: alumno
+cn: alumno207 alumno
+uid: aalumno207
+userPassword: alumno
+uidNumber: 1207
+gidNumber: 500
+homeDirectory: /home/users/aalumno207
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno208 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno208
+sn: alumno
+cn: alumno208 alumno
+uid: aalumno208
+userPassword: alumno
+uidNumber: 1208
+gidNumber: 500
+homeDirectory: /home/users/aalumno208
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno209 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno209
+sn: alumno
+cn: alumno209 alumno
+uid: aalumno209
+userPassword: alumno
+uidNumber: 1209
+gidNumber: 500
+homeDirectory: /home/users/aalumno209
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno210 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno210
+sn: alumno
+cn: alumno210 alumno
+uid: aalumno210
+userPassword: alumno
+uidNumber: 1210
+gidNumber: 500
+homeDirectory: /home/users/aalumno210
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno211 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno211
+sn: alumno
+cn: alumno211 alumno
+uid: aalumno211
+userPassword: alumno
+uidNumber: 1211
+gidNumber: 500
+homeDirectory: /home/users/aalumno211
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno212 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno212
+sn: alumno
+cn: alumno212 alumno
+uid: aalumno212
+userPassword: alumno
+uidNumber: 1212
+gidNumber: 500
+homeDirectory: /home/users/aalumno212
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno213 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno213
+sn: alumno
+cn: alumno213 alumno
+uid: aalumno213
+userPassword: alumno
+uidNumber: 1213
+gidNumber: 500
+homeDirectory: /home/users/aalumno213
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno214 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno214
+sn: alumno
+cn: alumno214 alumno
+uid: aalumno214
+userPassword: alumno
+uidNumber: 1214
+gidNumber: 500
+homeDirectory: /home/users/aalumno214
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno215 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno215
+sn: alumno
+cn: alumno215 alumno
+uid: aalumno215
+userPassword: alumno
+uidNumber: 1215
+gidNumber: 500
+homeDirectory: /home/users/aalumno215
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno216 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno216
+sn: alumno
+cn: alumno216 alumno
+uid: aalumno216
+userPassword: alumno
+uidNumber: 1216
+gidNumber: 500
+homeDirectory: /home/users/aalumno216
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno217 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno217
+sn: alumno
+cn: alumno217 alumno
+uid: aalumno217
+userPassword: alumno
+uidNumber: 1217
+gidNumber: 500
+homeDirectory: /home/users/aalumno217
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno218 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno218
+sn: alumno
+cn: alumno218 alumno
+uid: aalumno218
+userPassword: alumno
+uidNumber: 1218
+gidNumber: 500
+homeDirectory: /home/users/aalumno218
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno219 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno219
+sn: alumno
+cn: alumno219 alumno
+uid: aalumno219
+userPassword: alumno
+uidNumber: 1219
+gidNumber: 500
+homeDirectory: /home/users/aalumno219
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno220 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno220
+sn: alumno
+cn: alumno220 alumno
+uid: aalumno220
+userPassword: alumno
+uidNumber: 1220
+gidNumber: 500
+homeDirectory: /home/users/aalumno220
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno221 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno221
+sn: alumno
+cn: alumno221 alumno
+uid: aalumno221
+userPassword: alumno
+uidNumber: 1221
+gidNumber: 500
+homeDirectory: /home/users/aalumno221
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno222 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno222
+sn: alumno
+cn: alumno222 alumno
+uid: aalumno222
+userPassword: alumno
+uidNumber: 1222
+gidNumber: 500
+homeDirectory: /home/users/aalumno222
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno223 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno223
+sn: alumno
+cn: alumno223 alumno
+uid: aalumno223
+userPassword: alumno
+uidNumber: 1223
+gidNumber: 500
+homeDirectory: /home/users/aalumno223
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno224 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno224
+sn: alumno
+cn: alumno224 alumno
+uid: aalumno224
+userPassword: alumno
+uidNumber: 1224
+gidNumber: 500
+homeDirectory: /home/users/aalumno224
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno225 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno225
+sn: alumno
+cn: alumno225 alumno
+uid: aalumno225
+userPassword: alumno
+uidNumber: 1225
+gidNumber: 500
+homeDirectory: /home/users/aalumno225
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno226 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno226
+sn: alumno
+cn: alumno226 alumno
+uid: aalumno226
+userPassword: alumno
+uidNumber: 1226
+gidNumber: 500
+homeDirectory: /home/users/aalumno226
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno227 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno227
+sn: alumno
+cn: alumno227 alumno
+uid: aalumno227
+userPassword: alumno
+uidNumber: 1227
+gidNumber: 500
+homeDirectory: /home/users/aalumno227
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno228 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno228
+sn: alumno
+cn: alumno228 alumno
+uid: aalumno228
+userPassword: alumno
+uidNumber: 1228
+gidNumber: 500
+homeDirectory: /home/users/aalumno228
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno229 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno229
+sn: alumno
+cn: alumno229 alumno
+uid: aalumno229
+userPassword: alumno
+uidNumber: 1229
+gidNumber: 500
+homeDirectory: /home/users/aalumno229
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno230 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno230
+sn: alumno
+cn: alumno230 alumno
+uid: aalumno230
+userPassword: alumno
+uidNumber: 1230
+gidNumber: 500
+homeDirectory: /home/users/aalumno230
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno231 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno231
+sn: alumno
+cn: alumno231 alumno
+uid: aalumno231
+userPassword: alumno
+uidNumber: 1231
+gidNumber: 500
+homeDirectory: /home/users/aalumno231
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno232 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno232
+sn: alumno
+cn: alumno232 alumno
+uid: aalumno232
+userPassword: alumno
+uidNumber: 1232
+gidNumber: 500
+homeDirectory: /home/users/aalumno232
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno233 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno233
+sn: alumno
+cn: alumno233 alumno
+uid: aalumno233
+userPassword: alumno
+uidNumber: 1233
+gidNumber: 500
+homeDirectory: /home/users/aalumno233
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno234 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno234
+sn: alumno
+cn: alumno234 alumno
+uid: aalumno234
+userPassword: alumno
+uidNumber: 1234
+gidNumber: 500
+homeDirectory: /home/users/aalumno234
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno235 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno235
+sn: alumno
+cn: alumno235 alumno
+uid: aalumno235
+userPassword: alumno
+uidNumber: 1235
+gidNumber: 500
+homeDirectory: /home/users/aalumno235
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno236 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno236
+sn: alumno
+cn: alumno236 alumno
+uid: aalumno236
+userPassword: alumno
+uidNumber: 1236
+gidNumber: 500
+homeDirectory: /home/users/aalumno236
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno237 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno237
+sn: alumno
+cn: alumno237 alumno
+uid: aalumno237
+userPassword: alumno
+uidNumber: 1237
+gidNumber: 500
+homeDirectory: /home/users/aalumno237
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno238 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno238
+sn: alumno
+cn: alumno238 alumno
+uid: aalumno238
+userPassword: alumno
+uidNumber: 1238
+gidNumber: 500
+homeDirectory: /home/users/aalumno238
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno239 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno239
+sn: alumno
+cn: alumno239 alumno
+uid: aalumno239
+userPassword: alumno
+uidNumber: 1239
+gidNumber: 500
+homeDirectory: /home/users/aalumno239
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno240 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno240
+sn: alumno
+cn: alumno240 alumno
+uid: aalumno240
+userPassword: alumno
+uidNumber: 1240
+gidNumber: 500
+homeDirectory: /home/users/aalumno240
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno241 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno241
+sn: alumno
+cn: alumno241 alumno
+uid: aalumno241
+userPassword: alumno
+uidNumber: 1241
+gidNumber: 500
+homeDirectory: /home/users/aalumno241
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno242 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno242
+sn: alumno
+cn: alumno242 alumno
+uid: aalumno242
+userPassword: alumno
+uidNumber: 1242
+gidNumber: 500
+homeDirectory: /home/users/aalumno242
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno243 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno243
+sn: alumno
+cn: alumno243 alumno
+uid: aalumno243
+userPassword: alumno
+uidNumber: 1243
+gidNumber: 500
+homeDirectory: /home/users/aalumno243
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno244 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno244
+sn: alumno
+cn: alumno244 alumno
+uid: aalumno244
+userPassword: alumno
+uidNumber: 1244
+gidNumber: 500
+homeDirectory: /home/users/aalumno244
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno245 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno245
+sn: alumno
+cn: alumno245 alumno
+uid: aalumno245
+userPassword: alumno
+uidNumber: 1245
+gidNumber: 500
+homeDirectory: /home/users/aalumno245
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno246 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno246
+sn: alumno
+cn: alumno246 alumno
+uid: aalumno246
+userPassword: alumno
+uidNumber: 1246
+gidNumber: 500
+homeDirectory: /home/users/aalumno246
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno247 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno247
+sn: alumno
+cn: alumno247 alumno
+uid: aalumno247
+userPassword: alumno
+uidNumber: 1247
+gidNumber: 500
+homeDirectory: /home/users/aalumno247
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno248 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno248
+sn: alumno
+cn: alumno248 alumno
+uid: aalumno248
+userPassword: alumno
+uidNumber: 1248
+gidNumber: 500
+homeDirectory: /home/users/aalumno248
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno249 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno249
+sn: alumno
+cn: alumno249 alumno
+uid: aalumno249
+userPassword: alumno
+uidNumber: 1249
+gidNumber: 500
+homeDirectory: /home/users/aalumno249
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno250 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno250
+sn: alumno
+cn: alumno250 alumno
+uid: aalumno250
+userPassword: alumno
+uidNumber: 1250
+gidNumber: 500
+homeDirectory: /home/users/aalumno250
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno251 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno251
+sn: alumno
+cn: alumno251 alumno
+uid: aalumno251
+userPassword: alumno
+uidNumber: 1251
+gidNumber: 500
+homeDirectory: /home/users/aalumno251
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno252 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno252
+sn: alumno
+cn: alumno252 alumno
+uid: aalumno252
+userPassword: alumno
+uidNumber: 1252
+gidNumber: 500
+homeDirectory: /home/users/aalumno252
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno253 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno253
+sn: alumno
+cn: alumno253 alumno
+uid: aalumno253
+userPassword: alumno
+uidNumber: 1253
+gidNumber: 500
+homeDirectory: /home/users/aalumno253
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno254 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno254
+sn: alumno
+cn: alumno254 alumno
+uid: aalumno254
+userPassword: alumno
+uidNumber: 1254
+gidNumber: 500
+homeDirectory: /home/users/aalumno254
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno255 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno255
+sn: alumno
+cn: alumno255 alumno
+uid: aalumno255
+userPassword: alumno
+uidNumber: 1255
+gidNumber: 500
+homeDirectory: /home/users/aalumno255
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno256 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno256
+sn: alumno
+cn: alumno256 alumno
+uid: aalumno256
+userPassword: alumno
+uidNumber: 1256
+gidNumber: 500
+homeDirectory: /home/users/aalumno256
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno257 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno257
+sn: alumno
+cn: alumno257 alumno
+uid: aalumno257
+userPassword: alumno
+uidNumber: 1257
+gidNumber: 500
+homeDirectory: /home/users/aalumno257
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno258 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno258
+sn: alumno
+cn: alumno258 alumno
+uid: aalumno258
+userPassword: alumno
+uidNumber: 1258
+gidNumber: 500
+homeDirectory: /home/users/aalumno258
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno259 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno259
+sn: alumno
+cn: alumno259 alumno
+uid: aalumno259
+userPassword: alumno
+uidNumber: 1259
+gidNumber: 500
+homeDirectory: /home/users/aalumno259
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno260 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno260
+sn: alumno
+cn: alumno260 alumno
+uid: aalumno260
+userPassword: alumno
+uidNumber: 1260
+gidNumber: 500
+homeDirectory: /home/users/aalumno260
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno261 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno261
+sn: alumno
+cn: alumno261 alumno
+uid: aalumno261
+userPassword: alumno
+uidNumber: 1261
+gidNumber: 500
+homeDirectory: /home/users/aalumno261
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno262 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno262
+sn: alumno
+cn: alumno262 alumno
+uid: aalumno262
+userPassword: alumno
+uidNumber: 1262
+gidNumber: 500
+homeDirectory: /home/users/aalumno262
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno263 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno263
+sn: alumno
+cn: alumno263 alumno
+uid: aalumno263
+userPassword: alumno
+uidNumber: 1263
+gidNumber: 500
+homeDirectory: /home/users/aalumno263
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno264 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno264
+sn: alumno
+cn: alumno264 alumno
+uid: aalumno264
+userPassword: alumno
+uidNumber: 1264
+gidNumber: 500
+homeDirectory: /home/users/aalumno264
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno265 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno265
+sn: alumno
+cn: alumno265 alumno
+uid: aalumno265
+userPassword: alumno
+uidNumber: 1265
+gidNumber: 500
+homeDirectory: /home/users/aalumno265
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno266 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno266
+sn: alumno
+cn: alumno266 alumno
+uid: aalumno266
+userPassword: alumno
+uidNumber: 1266
+gidNumber: 500
+homeDirectory: /home/users/aalumno266
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno267 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno267
+sn: alumno
+cn: alumno267 alumno
+uid: aalumno267
+userPassword: alumno
+uidNumber: 1267
+gidNumber: 500
+homeDirectory: /home/users/aalumno267
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno268 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno268
+sn: alumno
+cn: alumno268 alumno
+uid: aalumno268
+userPassword: alumno
+uidNumber: 1268
+gidNumber: 500
+homeDirectory: /home/users/aalumno268
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno269 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno269
+sn: alumno
+cn: alumno269 alumno
+uid: aalumno269
+userPassword: alumno
+uidNumber: 1269
+gidNumber: 500
+homeDirectory: /home/users/aalumno269
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno270 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno270
+sn: alumno
+cn: alumno270 alumno
+uid: aalumno270
+userPassword: alumno
+uidNumber: 1270
+gidNumber: 500
+homeDirectory: /home/users/aalumno270
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno271 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno271
+sn: alumno
+cn: alumno271 alumno
+uid: aalumno271
+userPassword: alumno
+uidNumber: 1271
+gidNumber: 500
+homeDirectory: /home/users/aalumno271
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno272 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno272
+sn: alumno
+cn: alumno272 alumno
+uid: aalumno272
+userPassword: alumno
+uidNumber: 1272
+gidNumber: 500
+homeDirectory: /home/users/aalumno272
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno273 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno273
+sn: alumno
+cn: alumno273 alumno
+uid: aalumno273
+userPassword: alumno
+uidNumber: 1273
+gidNumber: 500
+homeDirectory: /home/users/aalumno273
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno274 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno274
+sn: alumno
+cn: alumno274 alumno
+uid: aalumno274
+userPassword: alumno
+uidNumber: 1274
+gidNumber: 500
+homeDirectory: /home/users/aalumno274
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno275 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno275
+sn: alumno
+cn: alumno275 alumno
+uid: aalumno275
+userPassword: alumno
+uidNumber: 1275
+gidNumber: 500
+homeDirectory: /home/users/aalumno275
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno276 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno276
+sn: alumno
+cn: alumno276 alumno
+uid: aalumno276
+userPassword: alumno
+uidNumber: 1276
+gidNumber: 500
+homeDirectory: /home/users/aalumno276
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno277 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno277
+sn: alumno
+cn: alumno277 alumno
+uid: aalumno277
+userPassword: alumno
+uidNumber: 1277
+gidNumber: 500
+homeDirectory: /home/users/aalumno277
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno278 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno278
+sn: alumno
+cn: alumno278 alumno
+uid: aalumno278
+userPassword: alumno
+uidNumber: 1278
+gidNumber: 500
+homeDirectory: /home/users/aalumno278
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno279 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno279
+sn: alumno
+cn: alumno279 alumno
+uid: aalumno279
+userPassword: alumno
+uidNumber: 1279
+gidNumber: 500
+homeDirectory: /home/users/aalumno279
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno280 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno280
+sn: alumno
+cn: alumno280 alumno
+uid: aalumno280
+userPassword: alumno
+uidNumber: 1280
+gidNumber: 500
+homeDirectory: /home/users/aalumno280
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno281 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno281
+sn: alumno
+cn: alumno281 alumno
+uid: aalumno281
+userPassword: alumno
+uidNumber: 1281
+gidNumber: 500
+homeDirectory: /home/users/aalumno281
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno282 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno282
+sn: alumno
+cn: alumno282 alumno
+uid: aalumno282
+userPassword: alumno
+uidNumber: 1282
+gidNumber: 500
+homeDirectory: /home/users/aalumno282
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno283 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno283
+sn: alumno
+cn: alumno283 alumno
+uid: aalumno283
+userPassword: alumno
+uidNumber: 1283
+gidNumber: 500
+homeDirectory: /home/users/aalumno283
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno284 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno284
+sn: alumno
+cn: alumno284 alumno
+uid: aalumno284
+userPassword: alumno
+uidNumber: 1284
+gidNumber: 500
+homeDirectory: /home/users/aalumno284
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno285 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno285
+sn: alumno
+cn: alumno285 alumno
+uid: aalumno285
+userPassword: alumno
+uidNumber: 1285
+gidNumber: 500
+homeDirectory: /home/users/aalumno285
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno286 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno286
+sn: alumno
+cn: alumno286 alumno
+uid: aalumno286
+userPassword: alumno
+uidNumber: 1286
+gidNumber: 500
+homeDirectory: /home/users/aalumno286
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno287 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno287
+sn: alumno
+cn: alumno287 alumno
+uid: aalumno287
+userPassword: alumno
+uidNumber: 1287
+gidNumber: 500
+homeDirectory: /home/users/aalumno287
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno288 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno288
+sn: alumno
+cn: alumno288 alumno
+uid: aalumno288
+userPassword: alumno
+uidNumber: 1288
+gidNumber: 500
+homeDirectory: /home/users/aalumno288
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno289 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno289
+sn: alumno
+cn: alumno289 alumno
+uid: aalumno289
+userPassword: alumno
+uidNumber: 1289
+gidNumber: 500
+homeDirectory: /home/users/aalumno289
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno290 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno290
+sn: alumno
+cn: alumno290 alumno
+uid: aalumno290
+userPassword: alumno
+uidNumber: 1290
+gidNumber: 500
+homeDirectory: /home/users/aalumno290
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno291 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno291
+sn: alumno
+cn: alumno291 alumno
+uid: aalumno291
+userPassword: alumno
+uidNumber: 1291
+gidNumber: 500
+homeDirectory: /home/users/aalumno291
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno292 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno292
+sn: alumno
+cn: alumno292 alumno
+uid: aalumno292
+userPassword: alumno
+uidNumber: 1292
+gidNumber: 500
+homeDirectory: /home/users/aalumno292
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno293 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno293
+sn: alumno
+cn: alumno293 alumno
+uid: aalumno293
+userPassword: alumno
+uidNumber: 1293
+gidNumber: 500
+homeDirectory: /home/users/aalumno293
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno294 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno294
+sn: alumno
+cn: alumno294 alumno
+uid: aalumno294
+userPassword: alumno
+uidNumber: 1294
+gidNumber: 500
+homeDirectory: /home/users/aalumno294
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno295 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno295
+sn: alumno
+cn: alumno295 alumno
+uid: aalumno295
+userPassword: alumno
+uidNumber: 1295
+gidNumber: 500
+homeDirectory: /home/users/aalumno295
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno296 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno296
+sn: alumno
+cn: alumno296 alumno
+uid: aalumno296
+userPassword: alumno
+uidNumber: 1296
+gidNumber: 500
+homeDirectory: /home/users/aalumno296
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno297 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno297
+sn: alumno
+cn: alumno297 alumno
+uid: aalumno297
+userPassword: alumno
+uidNumber: 1297
+gidNumber: 500
+homeDirectory: /home/users/aalumno297
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno298 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno298
+sn: alumno
+cn: alumno298 alumno
+uid: aalumno298
+userPassword: alumno
+uidNumber: 1298
+gidNumber: 500
+homeDirectory: /home/users/aalumno298
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno299 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno299
+sn: alumno
+cn: alumno299 alumno
+uid: aalumno299
+userPassword: alumno
+uidNumber: 1299
+gidNumber: 500
+homeDirectory: /home/users/aalumno299
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno300 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno300
+sn: alumno
+cn: alumno300 alumno
+uid: aalumno300
+userPassword: alumno
+uidNumber: 1300
+gidNumber: 500
+homeDirectory: /home/users/aalumno300
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno301 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno301
+sn: alumno
+cn: alumno301 alumno
+uid: aalumno301
+userPassword: alumno
+uidNumber: 1301
+gidNumber: 500
+homeDirectory: /home/users/aalumno301
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno302 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno302
+sn: alumno
+cn: alumno302 alumno
+uid: aalumno302
+userPassword: alumno
+uidNumber: 1302
+gidNumber: 500
+homeDirectory: /home/users/aalumno302
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno303 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno303
+sn: alumno
+cn: alumno303 alumno
+uid: aalumno303
+userPassword: alumno
+uidNumber: 1303
+gidNumber: 500
+homeDirectory: /home/users/aalumno303
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno304 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno304
+sn: alumno
+cn: alumno304 alumno
+uid: aalumno304
+userPassword: alumno
+uidNumber: 1304
+gidNumber: 500
+homeDirectory: /home/users/aalumno304
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno305 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno305
+sn: alumno
+cn: alumno305 alumno
+uid: aalumno305
+userPassword: alumno
+uidNumber: 1305
+gidNumber: 500
+homeDirectory: /home/users/aalumno305
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno306 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno306
+sn: alumno
+cn: alumno306 alumno
+uid: aalumno306
+userPassword: alumno
+uidNumber: 1306
+gidNumber: 500
+homeDirectory: /home/users/aalumno306
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno307 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno307
+sn: alumno
+cn: alumno307 alumno
+uid: aalumno307
+userPassword: alumno
+uidNumber: 1307
+gidNumber: 500
+homeDirectory: /home/users/aalumno307
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno308 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno308
+sn: alumno
+cn: alumno308 alumno
+uid: aalumno308
+userPassword: alumno
+uidNumber: 1308
+gidNumber: 500
+homeDirectory: /home/users/aalumno308
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno309 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno309
+sn: alumno
+cn: alumno309 alumno
+uid: aalumno309
+userPassword: alumno
+uidNumber: 1309
+gidNumber: 500
+homeDirectory: /home/users/aalumno309
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno310 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno310
+sn: alumno
+cn: alumno310 alumno
+uid: aalumno310
+userPassword: alumno
+uidNumber: 1310
+gidNumber: 500
+homeDirectory: /home/users/aalumno310
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno311 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno311
+sn: alumno
+cn: alumno311 alumno
+uid: aalumno311
+userPassword: alumno
+uidNumber: 1311
+gidNumber: 500
+homeDirectory: /home/users/aalumno311
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno312 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno312
+sn: alumno
+cn: alumno312 alumno
+uid: aalumno312
+userPassword: alumno
+uidNumber: 1312
+gidNumber: 500
+homeDirectory: /home/users/aalumno312
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno313 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno313
+sn: alumno
+cn: alumno313 alumno
+uid: aalumno313
+userPassword: alumno
+uidNumber: 1313
+gidNumber: 500
+homeDirectory: /home/users/aalumno313
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno314 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno314
+sn: alumno
+cn: alumno314 alumno
+uid: aalumno314
+userPassword: alumno
+uidNumber: 1314
+gidNumber: 500
+homeDirectory: /home/users/aalumno314
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno315 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno315
+sn: alumno
+cn: alumno315 alumno
+uid: aalumno315
+userPassword: alumno
+uidNumber: 1315
+gidNumber: 500
+homeDirectory: /home/users/aalumno315
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno316 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno316
+sn: alumno
+cn: alumno316 alumno
+uid: aalumno316
+userPassword: alumno
+uidNumber: 1316
+gidNumber: 500
+homeDirectory: /home/users/aalumno316
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno317 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno317
+sn: alumno
+cn: alumno317 alumno
+uid: aalumno317
+userPassword: alumno
+uidNumber: 1317
+gidNumber: 500
+homeDirectory: /home/users/aalumno317
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno318 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno318
+sn: alumno
+cn: alumno318 alumno
+uid: aalumno318
+userPassword: alumno
+uidNumber: 1318
+gidNumber: 500
+homeDirectory: /home/users/aalumno318
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno319 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno319
+sn: alumno
+cn: alumno319 alumno
+uid: aalumno319
+userPassword: alumno
+uidNumber: 1319
+gidNumber: 500
+homeDirectory: /home/users/aalumno319
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno320 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno320
+sn: alumno
+cn: alumno320 alumno
+uid: aalumno320
+userPassword: alumno
+uidNumber: 1320
+gidNumber: 500
+homeDirectory: /home/users/aalumno320
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno321 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno321
+sn: alumno
+cn: alumno321 alumno
+uid: aalumno321
+userPassword: alumno
+uidNumber: 1321
+gidNumber: 500
+homeDirectory: /home/users/aalumno321
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno322 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno322
+sn: alumno
+cn: alumno322 alumno
+uid: aalumno322
+userPassword: alumno
+uidNumber: 1322
+gidNumber: 500
+homeDirectory: /home/users/aalumno322
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno323 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno323
+sn: alumno
+cn: alumno323 alumno
+uid: aalumno323
+userPassword: alumno
+uidNumber: 1323
+gidNumber: 500
+homeDirectory: /home/users/aalumno323
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno324 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno324
+sn: alumno
+cn: alumno324 alumno
+uid: aalumno324
+userPassword: alumno
+uidNumber: 1324
+gidNumber: 500
+homeDirectory: /home/users/aalumno324
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno325 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno325
+sn: alumno
+cn: alumno325 alumno
+uid: aalumno325
+userPassword: alumno
+uidNumber: 1325
+gidNumber: 500
+homeDirectory: /home/users/aalumno325
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno326 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno326
+sn: alumno
+cn: alumno326 alumno
+uid: aalumno326
+userPassword: alumno
+uidNumber: 1326
+gidNumber: 500
+homeDirectory: /home/users/aalumno326
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno327 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno327
+sn: alumno
+cn: alumno327 alumno
+uid: aalumno327
+userPassword: alumno
+uidNumber: 1327
+gidNumber: 500
+homeDirectory: /home/users/aalumno327
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno328 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno328
+sn: alumno
+cn: alumno328 alumno
+uid: aalumno328
+userPassword: alumno
+uidNumber: 1328
+gidNumber: 500
+homeDirectory: /home/users/aalumno328
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno329 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno329
+sn: alumno
+cn: alumno329 alumno
+uid: aalumno329
+userPassword: alumno
+uidNumber: 1329
+gidNumber: 500
+homeDirectory: /home/users/aalumno329
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno330 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno330
+sn: alumno
+cn: alumno330 alumno
+uid: aalumno330
+userPassword: alumno
+uidNumber: 1330
+gidNumber: 500
+homeDirectory: /home/users/aalumno330
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno331 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno331
+sn: alumno
+cn: alumno331 alumno
+uid: aalumno331
+userPassword: alumno
+uidNumber: 1331
+gidNumber: 500
+homeDirectory: /home/users/aalumno331
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno332 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno332
+sn: alumno
+cn: alumno332 alumno
+uid: aalumno332
+userPassword: alumno
+uidNumber: 1332
+gidNumber: 500
+homeDirectory: /home/users/aalumno332
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno333 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno333
+sn: alumno
+cn: alumno333 alumno
+uid: aalumno333
+userPassword: alumno
+uidNumber: 1333
+gidNumber: 500
+homeDirectory: /home/users/aalumno333
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno334 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno334
+sn: alumno
+cn: alumno334 alumno
+uid: aalumno334
+userPassword: alumno
+uidNumber: 1334
+gidNumber: 500
+homeDirectory: /home/users/aalumno334
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno335 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno335
+sn: alumno
+cn: alumno335 alumno
+uid: aalumno335
+userPassword: alumno
+uidNumber: 1335
+gidNumber: 500
+homeDirectory: /home/users/aalumno335
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno336 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno336
+sn: alumno
+cn: alumno336 alumno
+uid: aalumno336
+userPassword: alumno
+uidNumber: 1336
+gidNumber: 500
+homeDirectory: /home/users/aalumno336
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno337 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno337
+sn: alumno
+cn: alumno337 alumno
+uid: aalumno337
+userPassword: alumno
+uidNumber: 1337
+gidNumber: 500
+homeDirectory: /home/users/aalumno337
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno338 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno338
+sn: alumno
+cn: alumno338 alumno
+uid: aalumno338
+userPassword: alumno
+uidNumber: 1338
+gidNumber: 500
+homeDirectory: /home/users/aalumno338
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno339 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno339
+sn: alumno
+cn: alumno339 alumno
+uid: aalumno339
+userPassword: alumno
+uidNumber: 1339
+gidNumber: 500
+homeDirectory: /home/users/aalumno339
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno340 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno340
+sn: alumno
+cn: alumno340 alumno
+uid: aalumno340
+userPassword: alumno
+uidNumber: 1340
+gidNumber: 500
+homeDirectory: /home/users/aalumno340
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno341 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno341
+sn: alumno
+cn: alumno341 alumno
+uid: aalumno341
+userPassword: alumno
+uidNumber: 1341
+gidNumber: 500
+homeDirectory: /home/users/aalumno341
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno342 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno342
+sn: alumno
+cn: alumno342 alumno
+uid: aalumno342
+userPassword: alumno
+uidNumber: 1342
+gidNumber: 500
+homeDirectory: /home/users/aalumno342
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno343 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno343
+sn: alumno
+cn: alumno343 alumno
+uid: aalumno343
+userPassword: alumno
+uidNumber: 1343
+gidNumber: 500
+homeDirectory: /home/users/aalumno343
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno344 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno344
+sn: alumno
+cn: alumno344 alumno
+uid: aalumno344
+userPassword: alumno
+uidNumber: 1344
+gidNumber: 500
+homeDirectory: /home/users/aalumno344
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno345 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno345
+sn: alumno
+cn: alumno345 alumno
+uid: aalumno345
+userPassword: alumno
+uidNumber: 1345
+gidNumber: 500
+homeDirectory: /home/users/aalumno345
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno346 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno346
+sn: alumno
+cn: alumno346 alumno
+uid: aalumno346
+userPassword: alumno
+uidNumber: 1346
+gidNumber: 500
+homeDirectory: /home/users/aalumno346
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno347 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno347
+sn: alumno
+cn: alumno347 alumno
+uid: aalumno347
+userPassword: alumno
+uidNumber: 1347
+gidNumber: 500
+homeDirectory: /home/users/aalumno347
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno348 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno348
+sn: alumno
+cn: alumno348 alumno
+uid: aalumno348
+userPassword: alumno
+uidNumber: 1348
+gidNumber: 500
+homeDirectory: /home/users/aalumno348
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno349 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno349
+sn: alumno
+cn: alumno349 alumno
+uid: aalumno349
+userPassword: alumno
+uidNumber: 1349
+gidNumber: 500
+homeDirectory: /home/users/aalumno349
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno350 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno350
+sn: alumno
+cn: alumno350 alumno
+uid: aalumno350
+userPassword: alumno
+uidNumber: 1350
+gidNumber: 500
+homeDirectory: /home/users/aalumno350
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno351 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno351
+sn: alumno
+cn: alumno351 alumno
+uid: aalumno351
+userPassword: alumno
+uidNumber: 1351
+gidNumber: 500
+homeDirectory: /home/users/aalumno351
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno352 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno352
+sn: alumno
+cn: alumno352 alumno
+uid: aalumno352
+userPassword: alumno
+uidNumber: 1352
+gidNumber: 500
+homeDirectory: /home/users/aalumno352
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno353 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno353
+sn: alumno
+cn: alumno353 alumno
+uid: aalumno353
+userPassword: alumno
+uidNumber: 1353
+gidNumber: 500
+homeDirectory: /home/users/aalumno353
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno354 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno354
+sn: alumno
+cn: alumno354 alumno
+uid: aalumno354
+userPassword: alumno
+uidNumber: 1354
+gidNumber: 500
+homeDirectory: /home/users/aalumno354
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno355 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno355
+sn: alumno
+cn: alumno355 alumno
+uid: aalumno355
+userPassword: alumno
+uidNumber: 1355
+gidNumber: 500
+homeDirectory: /home/users/aalumno355
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno356 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno356
+sn: alumno
+cn: alumno356 alumno
+uid: aalumno356
+userPassword: alumno
+uidNumber: 1356
+gidNumber: 500
+homeDirectory: /home/users/aalumno356
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno357 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno357
+sn: alumno
+cn: alumno357 alumno
+uid: aalumno357
+userPassword: alumno
+uidNumber: 1357
+gidNumber: 500
+homeDirectory: /home/users/aalumno357
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno358 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno358
+sn: alumno
+cn: alumno358 alumno
+uid: aalumno358
+userPassword: alumno
+uidNumber: 1358
+gidNumber: 500
+homeDirectory: /home/users/aalumno358
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno359 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno359
+sn: alumno
+cn: alumno359 alumno
+uid: aalumno359
+userPassword: alumno
+uidNumber: 1359
+gidNumber: 500
+homeDirectory: /home/users/aalumno359
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno360 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno360
+sn: alumno
+cn: alumno360 alumno
+uid: aalumno360
+userPassword: alumno
+uidNumber: 1360
+gidNumber: 500
+homeDirectory: /home/users/aalumno360
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno361 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno361
+sn: alumno
+cn: alumno361 alumno
+uid: aalumno361
+userPassword: alumno
+uidNumber: 1361
+gidNumber: 500
+homeDirectory: /home/users/aalumno361
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno362 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno362
+sn: alumno
+cn: alumno362 alumno
+uid: aalumno362
+userPassword: alumno
+uidNumber: 1362
+gidNumber: 500
+homeDirectory: /home/users/aalumno362
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno363 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno363
+sn: alumno
+cn: alumno363 alumno
+uid: aalumno363
+userPassword: alumno
+uidNumber: 1363
+gidNumber: 500
+homeDirectory: /home/users/aalumno363
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno364 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno364
+sn: alumno
+cn: alumno364 alumno
+uid: aalumno364
+userPassword: alumno
+uidNumber: 1364
+gidNumber: 500
+homeDirectory: /home/users/aalumno364
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno365 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno365
+sn: alumno
+cn: alumno365 alumno
+uid: aalumno365
+userPassword: alumno
+uidNumber: 1365
+gidNumber: 500
+homeDirectory: /home/users/aalumno365
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno366 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno366
+sn: alumno
+cn: alumno366 alumno
+uid: aalumno366
+userPassword: alumno
+uidNumber: 1366
+gidNumber: 500
+homeDirectory: /home/users/aalumno366
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno367 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno367
+sn: alumno
+cn: alumno367 alumno
+uid: aalumno367
+userPassword: alumno
+uidNumber: 1367
+gidNumber: 500
+homeDirectory: /home/users/aalumno367
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno368 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno368
+sn: alumno
+cn: alumno368 alumno
+uid: aalumno368
+userPassword: alumno
+uidNumber: 1368
+gidNumber: 500
+homeDirectory: /home/users/aalumno368
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno369 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno369
+sn: alumno
+cn: alumno369 alumno
+uid: aalumno369
+userPassword: alumno
+uidNumber: 1369
+gidNumber: 500
+homeDirectory: /home/users/aalumno369
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno370 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno370
+sn: alumno
+cn: alumno370 alumno
+uid: aalumno370
+userPassword: alumno
+uidNumber: 1370
+gidNumber: 500
+homeDirectory: /home/users/aalumno370
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno371 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno371
+sn: alumno
+cn: alumno371 alumno
+uid: aalumno371
+userPassword: alumno
+uidNumber: 1371
+gidNumber: 500
+homeDirectory: /home/users/aalumno371
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno372 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno372
+sn: alumno
+cn: alumno372 alumno
+uid: aalumno372
+userPassword: alumno
+uidNumber: 1372
+gidNumber: 500
+homeDirectory: /home/users/aalumno372
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno373 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno373
+sn: alumno
+cn: alumno373 alumno
+uid: aalumno373
+userPassword: alumno
+uidNumber: 1373
+gidNumber: 500
+homeDirectory: /home/users/aalumno373
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno374 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno374
+sn: alumno
+cn: alumno374 alumno
+uid: aalumno374
+userPassword: alumno
+uidNumber: 1374
+gidNumber: 500
+homeDirectory: /home/users/aalumno374
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno375 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno375
+sn: alumno
+cn: alumno375 alumno
+uid: aalumno375
+userPassword: alumno
+uidNumber: 1375
+gidNumber: 500
+homeDirectory: /home/users/aalumno375
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno376 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno376
+sn: alumno
+cn: alumno376 alumno
+uid: aalumno376
+userPassword: alumno
+uidNumber: 1376
+gidNumber: 500
+homeDirectory: /home/users/aalumno376
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno377 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno377
+sn: alumno
+cn: alumno377 alumno
+uid: aalumno377
+userPassword: alumno
+uidNumber: 1377
+gidNumber: 500
+homeDirectory: /home/users/aalumno377
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno378 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno378
+sn: alumno
+cn: alumno378 alumno
+uid: aalumno378
+userPassword: alumno
+uidNumber: 1378
+gidNumber: 500
+homeDirectory: /home/users/aalumno378
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno379 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno379
+sn: alumno
+cn: alumno379 alumno
+uid: aalumno379
+userPassword: alumno
+uidNumber: 1379
+gidNumber: 500
+homeDirectory: /home/users/aalumno379
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno380 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno380
+sn: alumno
+cn: alumno380 alumno
+uid: aalumno380
+userPassword: alumno
+uidNumber: 1380
+gidNumber: 500
+homeDirectory: /home/users/aalumno380
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno381 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno381
+sn: alumno
+cn: alumno381 alumno
+uid: aalumno381
+userPassword: alumno
+uidNumber: 1381
+gidNumber: 500
+homeDirectory: /home/users/aalumno381
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno382 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno382
+sn: alumno
+cn: alumno382 alumno
+uid: aalumno382
+userPassword: alumno
+uidNumber: 1382
+gidNumber: 500
+homeDirectory: /home/users/aalumno382
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno383 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno383
+sn: alumno
+cn: alumno383 alumno
+uid: aalumno383
+userPassword: alumno
+uidNumber: 1383
+gidNumber: 500
+homeDirectory: /home/users/aalumno383
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno384 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno384
+sn: alumno
+cn: alumno384 alumno
+uid: aalumno384
+userPassword: alumno
+uidNumber: 1384
+gidNumber: 500
+homeDirectory: /home/users/aalumno384
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno385 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno385
+sn: alumno
+cn: alumno385 alumno
+uid: aalumno385
+userPassword: alumno
+uidNumber: 1385
+gidNumber: 500
+homeDirectory: /home/users/aalumno385
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno386 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno386
+sn: alumno
+cn: alumno386 alumno
+uid: aalumno386
+userPassword: alumno
+uidNumber: 1386
+gidNumber: 500
+homeDirectory: /home/users/aalumno386
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno387 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno387
+sn: alumno
+cn: alumno387 alumno
+uid: aalumno387
+userPassword: alumno
+uidNumber: 1387
+gidNumber: 500
+homeDirectory: /home/users/aalumno387
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno388 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno388
+sn: alumno
+cn: alumno388 alumno
+uid: aalumno388
+userPassword: alumno
+uidNumber: 1388
+gidNumber: 500
+homeDirectory: /home/users/aalumno388
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno389 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno389
+sn: alumno
+cn: alumno389 alumno
+uid: aalumno389
+userPassword: alumno
+uidNumber: 1389
+gidNumber: 500
+homeDirectory: /home/users/aalumno389
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno390 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno390
+sn: alumno
+cn: alumno390 alumno
+uid: aalumno390
+userPassword: alumno
+uidNumber: 1390
+gidNumber: 500
+homeDirectory: /home/users/aalumno390
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno391 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno391
+sn: alumno
+cn: alumno391 alumno
+uid: aalumno391
+userPassword: alumno
+uidNumber: 1391
+gidNumber: 500
+homeDirectory: /home/users/aalumno391
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno392 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno392
+sn: alumno
+cn: alumno392 alumno
+uid: aalumno392
+userPassword: alumno
+uidNumber: 1392
+gidNumber: 500
+homeDirectory: /home/users/aalumno392
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno393 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno393
+sn: alumno
+cn: alumno393 alumno
+uid: aalumno393
+userPassword: alumno
+uidNumber: 1393
+gidNumber: 500
+homeDirectory: /home/users/aalumno393
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno394 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno394
+sn: alumno
+cn: alumno394 alumno
+uid: aalumno394
+userPassword: alumno
+uidNumber: 1394
+gidNumber: 500
+homeDirectory: /home/users/aalumno394
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno395 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno395
+sn: alumno
+cn: alumno395 alumno
+uid: aalumno395
+userPassword: alumno
+uidNumber: 1395
+gidNumber: 500
+homeDirectory: /home/users/aalumno395
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno396 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno396
+sn: alumno
+cn: alumno396 alumno
+uid: aalumno396
+userPassword: alumno
+uidNumber: 1396
+gidNumber: 500
+homeDirectory: /home/users/aalumno396
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno397 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno397
+sn: alumno
+cn: alumno397 alumno
+uid: aalumno397
+userPassword: alumno
+uidNumber: 1397
+gidNumber: 500
+homeDirectory: /home/users/aalumno397
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno398 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno398
+sn: alumno
+cn: alumno398 alumno
+uid: aalumno398
+userPassword: alumno
+uidNumber: 1398
+gidNumber: 500
+homeDirectory: /home/users/aalumno398
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno399 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno399
+sn: alumno
+cn: alumno399 alumno
+uid: aalumno399
+userPassword: alumno
+uidNumber: 1399
+gidNumber: 500
+homeDirectory: /home/users/aalumno399
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno400 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno400
+sn: alumno
+cn: alumno400 alumno
+uid: aalumno400
+userPassword: alumno
+uidNumber: 1400
+gidNumber: 500
+homeDirectory: /home/users/aalumno400
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno401 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno401
+sn: alumno
+cn: alumno401 alumno
+uid: aalumno401
+userPassword: alumno
+uidNumber: 1401
+gidNumber: 500
+homeDirectory: /home/users/aalumno401
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno402 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno402
+sn: alumno
+cn: alumno402 alumno
+uid: aalumno402
+userPassword: alumno
+uidNumber: 1402
+gidNumber: 500
+homeDirectory: /home/users/aalumno402
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno403 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno403
+sn: alumno
+cn: alumno403 alumno
+uid: aalumno403
+userPassword: alumno
+uidNumber: 1403
+gidNumber: 500
+homeDirectory: /home/users/aalumno403
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno404 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno404
+sn: alumno
+cn: alumno404 alumno
+uid: aalumno404
+userPassword: alumno
+uidNumber: 1404
+gidNumber: 500
+homeDirectory: /home/users/aalumno404
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno405 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno405
+sn: alumno
+cn: alumno405 alumno
+uid: aalumno405
+userPassword: alumno
+uidNumber: 1405
+gidNumber: 500
+homeDirectory: /home/users/aalumno405
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno406 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno406
+sn: alumno
+cn: alumno406 alumno
+uid: aalumno406
+userPassword: alumno
+uidNumber: 1406
+gidNumber: 500
+homeDirectory: /home/users/aalumno406
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno407 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno407
+sn: alumno
+cn: alumno407 alumno
+uid: aalumno407
+userPassword: alumno
+uidNumber: 1407
+gidNumber: 500
+homeDirectory: /home/users/aalumno407
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno408 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno408
+sn: alumno
+cn: alumno408 alumno
+uid: aalumno408
+userPassword: alumno
+uidNumber: 1408
+gidNumber: 500
+homeDirectory: /home/users/aalumno408
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno409 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno409
+sn: alumno
+cn: alumno409 alumno
+uid: aalumno409
+userPassword: alumno
+uidNumber: 1409
+gidNumber: 500
+homeDirectory: /home/users/aalumno409
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno410 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno410
+sn: alumno
+cn: alumno410 alumno
+uid: aalumno410
+userPassword: alumno
+uidNumber: 1410
+gidNumber: 500
+homeDirectory: /home/users/aalumno410
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno411 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno411
+sn: alumno
+cn: alumno411 alumno
+uid: aalumno411
+userPassword: alumno
+uidNumber: 1411
+gidNumber: 500
+homeDirectory: /home/users/aalumno411
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno412 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno412
+sn: alumno
+cn: alumno412 alumno
+uid: aalumno412
+userPassword: alumno
+uidNumber: 1412
+gidNumber: 500
+homeDirectory: /home/users/aalumno412
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno413 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno413
+sn: alumno
+cn: alumno413 alumno
+uid: aalumno413
+userPassword: alumno
+uidNumber: 1413
+gidNumber: 500
+homeDirectory: /home/users/aalumno413
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno414 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno414
+sn: alumno
+cn: alumno414 alumno
+uid: aalumno414
+userPassword: alumno
+uidNumber: 1414
+gidNumber: 500
+homeDirectory: /home/users/aalumno414
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno415 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno415
+sn: alumno
+cn: alumno415 alumno
+uid: aalumno415
+userPassword: alumno
+uidNumber: 1415
+gidNumber: 500
+homeDirectory: /home/users/aalumno415
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno416 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno416
+sn: alumno
+cn: alumno416 alumno
+uid: aalumno416
+userPassword: alumno
+uidNumber: 1416
+gidNumber: 500
+homeDirectory: /home/users/aalumno416
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno417 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno417
+sn: alumno
+cn: alumno417 alumno
+uid: aalumno417
+userPassword: alumno
+uidNumber: 1417
+gidNumber: 500
+homeDirectory: /home/users/aalumno417
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno418 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno418
+sn: alumno
+cn: alumno418 alumno
+uid: aalumno418
+userPassword: alumno
+uidNumber: 1418
+gidNumber: 500
+homeDirectory: /home/users/aalumno418
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno419 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno419
+sn: alumno
+cn: alumno419 alumno
+uid: aalumno419
+userPassword: alumno
+uidNumber: 1419
+gidNumber: 500
+homeDirectory: /home/users/aalumno419
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno420 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno420
+sn: alumno
+cn: alumno420 alumno
+uid: aalumno420
+userPassword: alumno
+uidNumber: 1420
+gidNumber: 500
+homeDirectory: /home/users/aalumno420
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno421 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno421
+sn: alumno
+cn: alumno421 alumno
+uid: aalumno421
+userPassword: alumno
+uidNumber: 1421
+gidNumber: 500
+homeDirectory: /home/users/aalumno421
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno422 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno422
+sn: alumno
+cn: alumno422 alumno
+uid: aalumno422
+userPassword: alumno
+uidNumber: 1422
+gidNumber: 500
+homeDirectory: /home/users/aalumno422
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno423 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno423
+sn: alumno
+cn: alumno423 alumno
+uid: aalumno423
+userPassword: alumno
+uidNumber: 1423
+gidNumber: 500
+homeDirectory: /home/users/aalumno423
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno424 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno424
+sn: alumno
+cn: alumno424 alumno
+uid: aalumno424
+userPassword: alumno
+uidNumber: 1424
+gidNumber: 500
+homeDirectory: /home/users/aalumno424
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno425 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno425
+sn: alumno
+cn: alumno425 alumno
+uid: aalumno425
+userPassword: alumno
+uidNumber: 1425
+gidNumber: 500
+homeDirectory: /home/users/aalumno425
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno426 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno426
+sn: alumno
+cn: alumno426 alumno
+uid: aalumno426
+userPassword: alumno
+uidNumber: 1426
+gidNumber: 500
+homeDirectory: /home/users/aalumno426
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno427 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno427
+sn: alumno
+cn: alumno427 alumno
+uid: aalumno427
+userPassword: alumno
+uidNumber: 1427
+gidNumber: 500
+homeDirectory: /home/users/aalumno427
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno428 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno428
+sn: alumno
+cn: alumno428 alumno
+uid: aalumno428
+userPassword: alumno
+uidNumber: 1428
+gidNumber: 500
+homeDirectory: /home/users/aalumno428
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno429 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno429
+sn: alumno
+cn: alumno429 alumno
+uid: aalumno429
+userPassword: alumno
+uidNumber: 1429
+gidNumber: 500
+homeDirectory: /home/users/aalumno429
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno430 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno430
+sn: alumno
+cn: alumno430 alumno
+uid: aalumno430
+userPassword: alumno
+uidNumber: 1430
+gidNumber: 500
+homeDirectory: /home/users/aalumno430
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno431 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno431
+sn: alumno
+cn: alumno431 alumno
+uid: aalumno431
+userPassword: alumno
+uidNumber: 1431
+gidNumber: 500
+homeDirectory: /home/users/aalumno431
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno432 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno432
+sn: alumno
+cn: alumno432 alumno
+uid: aalumno432
+userPassword: alumno
+uidNumber: 1432
+gidNumber: 500
+homeDirectory: /home/users/aalumno432
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno433 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno433
+sn: alumno
+cn: alumno433 alumno
+uid: aalumno433
+userPassword: alumno
+uidNumber: 1433
+gidNumber: 500
+homeDirectory: /home/users/aalumno433
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno434 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno434
+sn: alumno
+cn: alumno434 alumno
+uid: aalumno434
+userPassword: alumno
+uidNumber: 1434
+gidNumber: 500
+homeDirectory: /home/users/aalumno434
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno435 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno435
+sn: alumno
+cn: alumno435 alumno
+uid: aalumno435
+userPassword: alumno
+uidNumber: 1435
+gidNumber: 500
+homeDirectory: /home/users/aalumno435
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno436 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno436
+sn: alumno
+cn: alumno436 alumno
+uid: aalumno436
+userPassword: alumno
+uidNumber: 1436
+gidNumber: 500
+homeDirectory: /home/users/aalumno436
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno437 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno437
+sn: alumno
+cn: alumno437 alumno
+uid: aalumno437
+userPassword: alumno
+uidNumber: 1437
+gidNumber: 500
+homeDirectory: /home/users/aalumno437
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno438 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno438
+sn: alumno
+cn: alumno438 alumno
+uid: aalumno438
+userPassword: alumno
+uidNumber: 1438
+gidNumber: 500
+homeDirectory: /home/users/aalumno438
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno439 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno439
+sn: alumno
+cn: alumno439 alumno
+uid: aalumno439
+userPassword: alumno
+uidNumber: 1439
+gidNumber: 500
+homeDirectory: /home/users/aalumno439
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno440 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno440
+sn: alumno
+cn: alumno440 alumno
+uid: aalumno440
+userPassword: alumno
+uidNumber: 1440
+gidNumber: 500
+homeDirectory: /home/users/aalumno440
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno441 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno441
+sn: alumno
+cn: alumno441 alumno
+uid: aalumno441
+userPassword: alumno
+uidNumber: 1441
+gidNumber: 500
+homeDirectory: /home/users/aalumno441
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno442 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno442
+sn: alumno
+cn: alumno442 alumno
+uid: aalumno442
+userPassword: alumno
+uidNumber: 1442
+gidNumber: 500
+homeDirectory: /home/users/aalumno442
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno443 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno443
+sn: alumno
+cn: alumno443 alumno
+uid: aalumno443
+userPassword: alumno
+uidNumber: 1443
+gidNumber: 500
+homeDirectory: /home/users/aalumno443
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno444 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno444
+sn: alumno
+cn: alumno444 alumno
+uid: aalumno444
+userPassword: alumno
+uidNumber: 1444
+gidNumber: 500
+homeDirectory: /home/users/aalumno444
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno445 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno445
+sn: alumno
+cn: alumno445 alumno
+uid: aalumno445
+userPassword: alumno
+uidNumber: 1445
+gidNumber: 500
+homeDirectory: /home/users/aalumno445
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno446 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno446
+sn: alumno
+cn: alumno446 alumno
+uid: aalumno446
+userPassword: alumno
+uidNumber: 1446
+gidNumber: 500
+homeDirectory: /home/users/aalumno446
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno447 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno447
+sn: alumno
+cn: alumno447 alumno
+uid: aalumno447
+userPassword: alumno
+uidNumber: 1447
+gidNumber: 500
+homeDirectory: /home/users/aalumno447
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno448 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno448
+sn: alumno
+cn: alumno448 alumno
+uid: aalumno448
+userPassword: alumno
+uidNumber: 1448
+gidNumber: 500
+homeDirectory: /home/users/aalumno448
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno449 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno449
+sn: alumno
+cn: alumno449 alumno
+uid: aalumno449
+userPassword: alumno
+uidNumber: 1449
+gidNumber: 500
+homeDirectory: /home/users/aalumno449
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno450 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno450
+sn: alumno
+cn: alumno450 alumno
+uid: aalumno450
+userPassword: alumno
+uidNumber: 1450
+gidNumber: 500
+homeDirectory: /home/users/aalumno450
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno451 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno451
+sn: alumno
+cn: alumno451 alumno
+uid: aalumno451
+userPassword: alumno
+uidNumber: 1451
+gidNumber: 500
+homeDirectory: /home/users/aalumno451
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno452 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno452
+sn: alumno
+cn: alumno452 alumno
+uid: aalumno452
+userPassword: alumno
+uidNumber: 1452
+gidNumber: 500
+homeDirectory: /home/users/aalumno452
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno453 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno453
+sn: alumno
+cn: alumno453 alumno
+uid: aalumno453
+userPassword: alumno
+uidNumber: 1453
+gidNumber: 500
+homeDirectory: /home/users/aalumno453
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno454 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno454
+sn: alumno
+cn: alumno454 alumno
+uid: aalumno454
+userPassword: alumno
+uidNumber: 1454
+gidNumber: 500
+homeDirectory: /home/users/aalumno454
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno455 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno455
+sn: alumno
+cn: alumno455 alumno
+uid: aalumno455
+userPassword: alumno
+uidNumber: 1455
+gidNumber: 500
+homeDirectory: /home/users/aalumno455
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno456 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno456
+sn: alumno
+cn: alumno456 alumno
+uid: aalumno456
+userPassword: alumno
+uidNumber: 1456
+gidNumber: 500
+homeDirectory: /home/users/aalumno456
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno457 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno457
+sn: alumno
+cn: alumno457 alumno
+uid: aalumno457
+userPassword: alumno
+uidNumber: 1457
+gidNumber: 500
+homeDirectory: /home/users/aalumno457
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno458 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno458
+sn: alumno
+cn: alumno458 alumno
+uid: aalumno458
+userPassword: alumno
+uidNumber: 1458
+gidNumber: 500
+homeDirectory: /home/users/aalumno458
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno459 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno459
+sn: alumno
+cn: alumno459 alumno
+uid: aalumno459
+userPassword: alumno
+uidNumber: 1459
+gidNumber: 500
+homeDirectory: /home/users/aalumno459
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno460 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno460
+sn: alumno
+cn: alumno460 alumno
+uid: aalumno460
+userPassword: alumno
+uidNumber: 1460
+gidNumber: 500
+homeDirectory: /home/users/aalumno460
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno461 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno461
+sn: alumno
+cn: alumno461 alumno
+uid: aalumno461
+userPassword: alumno
+uidNumber: 1461
+gidNumber: 500
+homeDirectory: /home/users/aalumno461
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno462 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno462
+sn: alumno
+cn: alumno462 alumno
+uid: aalumno462
+userPassword: alumno
+uidNumber: 1462
+gidNumber: 500
+homeDirectory: /home/users/aalumno462
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno463 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno463
+sn: alumno
+cn: alumno463 alumno
+uid: aalumno463
+userPassword: alumno
+uidNumber: 1463
+gidNumber: 500
+homeDirectory: /home/users/aalumno463
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno464 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno464
+sn: alumno
+cn: alumno464 alumno
+uid: aalumno464
+userPassword: alumno
+uidNumber: 1464
+gidNumber: 500
+homeDirectory: /home/users/aalumno464
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno465 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno465
+sn: alumno
+cn: alumno465 alumno
+uid: aalumno465
+userPassword: alumno
+uidNumber: 1465
+gidNumber: 500
+homeDirectory: /home/users/aalumno465
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno466 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno466
+sn: alumno
+cn: alumno466 alumno
+uid: aalumno466
+userPassword: alumno
+uidNumber: 1466
+gidNumber: 500
+homeDirectory: /home/users/aalumno466
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno467 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno467
+sn: alumno
+cn: alumno467 alumno
+uid: aalumno467
+userPassword: alumno
+uidNumber: 1467
+gidNumber: 500
+homeDirectory: /home/users/aalumno467
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno468 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno468
+sn: alumno
+cn: alumno468 alumno
+uid: aalumno468
+userPassword: alumno
+uidNumber: 1468
+gidNumber: 500
+homeDirectory: /home/users/aalumno468
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno469 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno469
+sn: alumno
+cn: alumno469 alumno
+uid: aalumno469
+userPassword: alumno
+uidNumber: 1469
+gidNumber: 500
+homeDirectory: /home/users/aalumno469
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno470 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno470
+sn: alumno
+cn: alumno470 alumno
+uid: aalumno470
+userPassword: alumno
+uidNumber: 1470
+gidNumber: 500
+homeDirectory: /home/users/aalumno470
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno471 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno471
+sn: alumno
+cn: alumno471 alumno
+uid: aalumno471
+userPassword: alumno
+uidNumber: 1471
+gidNumber: 500
+homeDirectory: /home/users/aalumno471
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno472 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno472
+sn: alumno
+cn: alumno472 alumno
+uid: aalumno472
+userPassword: alumno
+uidNumber: 1472
+gidNumber: 500
+homeDirectory: /home/users/aalumno472
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
+dn: cn=alumno473 alumno,cn=alumnos,ou=alumnos,dc=rais,dc=org
+givenName: alumno473
+sn: alumno
+cn: alumno473 alumno
+uid: aalumno473
+userPassword: alumno
+uidNumber: 1473
+gidNumber: 500
+homeDirectory: /home/users/aalumno473
+loginShell: /bin/bash
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+
